@@ -1,0 +1,49 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/client.json",
+	"title": "An internal site or external client.",
+	"description": "Holds attributes of an internal site or external client.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Automatically generated ID.",
+			"type": "string"
+		},
+		"client_name": {
+			"description": "Internal site or external client name.",
+			"type": "string"
+		},
+		"client_domain": {
+			"description": "Internal site or external client domain name.",
+			"type": "string"
+		},
+		"client_code": {
+			"description": "Internal site or external client 4 character code.",
+			"type": "string",
+			"maxlength": 4
+		},
+		"internal": {
+			"description": "Flag to indicate internal site.",
+			"type": "boolean",
+			"default": true
+		},
+		"status": {
+			"description": "Status of the client.",
+			"type": "string",
+			"enum": [ "active" , "deleted"]
+		},
+		"api_key": {
+			"description": "API key to be used with api calls.",
+			"type": "string"
+		},
+		"licenses": {
+			"description": "Array of license ids that the client has access to, from license collection.",
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"type": "string"
+			}
+		}
+	},
+	"required": [ "client_name", "api_key" ]
+}

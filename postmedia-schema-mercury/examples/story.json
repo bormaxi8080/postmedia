@@ -1,0 +1,172 @@
+{
+	"id": "507f1f77bcf86cd799439011",
+	"client_id": "87ggf77bcf86cd799439011",
+	"license_id": "12gh4b88cx09as6745632100",
+	"origin_id": "13456",
+	"origin_cms": "wordpress",
+	"origin_url": "http://montrealgazette.com/news/local-news/post-title",
+	"origin_url_path": "/news/local-news/post-title",
+	"origin_slug": "post-title",
+	"global_slug": "0412 post-title",
+	"type": "story",
+	"imported_on": "2012-04-23T18:25:43.511Z",
+	"modified_on": "2012-04-23T18:25:43.511Z",
+	"published_on": "2012-04-23T18:25:43.511Z",
+	"status": "published",
+	"credits": {
+		"authors": [
+			{
+				"id": "265558",
+				"name": "Matthew Pearson",
+				"slug": "mpearson78",
+				"email": "mpearson@ottawacitizen.com"
+			},
+			{
+				"name": "Andrew Seymour",
+				"slug": "andrew-seymour",
+				"email": "aseymour@ottawacitizen.com"
+			}
+		],
+		"distributor": "Ottawa Citizen"
+	},
+	"titles": {
+		"main": "Post Title",
+		"sub": "Post sub title",
+		"alternative": "Post alternative title",
+		"concise": "Post concise title"
+	},
+	"excerpt": "Post excerpt",
+	"taxonomies": {
+		"tags": [
+			{
+				"id": "342",
+				"name": "Montreal",
+				"slug": "montreal-2"
+			},
+			{
+				"id": "421",
+				"name": "Laval",
+				"slug": "laval-3"
+			}
+		],
+		"main_taxonomies": [
+			{
+				"id": "123",
+				"type": "category",
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "/News/Local News/"
+			}
+		],
+		"categories": [
+			{
+				"id": "123",
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "/News/Local News/",
+				"main": true
+			},
+			{
+				"id": "456",
+				"name": "Local Business",
+				"slug": "local-business",
+				"path": "/Business/Local Business/"
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": "123",
+			"type": "text",
+			"content": "this is my first paragraph",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "456",
+			"type": "text",
+			"content": "this is my second paragraph",
+			"paragraph": "open"
+		},
+		{
+			"id": "789",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2015-06-25T09:50:50.52Z",
+			"url": "https://tinyurl.com/mqyonhb",
+			"title": "Never gonna give you up",
+			"caption": "Never gonna give you up",
+			"description": "Never gonna give you up",
+			"credit": "Ansel Adams",
+			"distributor": "Canadian Press",
+			"width": 800,
+			"height": 640
+		},
+		{
+			"id": "987",
+			"type": "text",
+			"content": "this is my third paragraph",
+			"paragraph": "close"
+		},
+		{
+			"id": "549876543210",
+			"type": "blockquote",
+			"content": "Here's my html"
+		},
+		{
+			"id": "1_Xh87jkL",
+			"type": "video",
+			"origin": "kaltura",
+			"title": "Test video title",
+			"description": "Test video description",
+			"thumbnail": "http://www.domain.com/video/thumbnail.jpg",
+			"inline": true,
+			"shortcode": "[kaltura-widget uiconfid='23273481' entryid='1_Xh87jkL' /]"
+		},
+		{
+			"id": "649876543210",
+			"type": "raw_html",
+			"content": "<iframe src=\"http://www.google.com\"></iframe>",
+			"channels": ["desktop"]
+		},
+		{
+			"id": "664422935130566656",
+			"type": "tweet",
+			"channels": ["desktop", "smartphone"]
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": "789",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2015-06-25T09:50:50.52Z",
+			"url": "https://tinyurl.com/mqyonhb",
+			"title": "Never gonna give you up",
+			"caption": "Never gonna give you up",
+			"description": "Never gonna give you up",
+			"credit": "Ansel Adams",
+			"distributor": "Canadian Press",
+			"width": 800,
+			"height": 640
+		},
+		"video": {
+			"id": "1_Xh87jkL",
+			"origin": "kaltura",
+			"title": "Test video title",
+			"description": "Test video description",
+			"thumbnail": "http://www.domain.com/video/thumbnail.jpg",
+			"inline": true
+		},
+		"s2n_video": {
+			"id": "768578686897987"
+		},
+		"gallery": {
+			"id": "657f1f55bcf86cd799769023"
+		}
+	},
+	"stock_symbols": [ "IBM", "INTL", "AMZN", "MRSFT" ],
+	"metadata": {
+		"foo": "bar",
+		"woo": "john"
+    }
+}

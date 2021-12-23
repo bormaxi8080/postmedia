@@ -1,0 +1,22 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/tag.json",
+	"title": "A tag.",
+	"description": "Holds attributes of a Postmedia tag component.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Tag id from originating CMS.",
+			"type": "string"
+		},
+		"name": {
+			"description": "Tag name.",
+			"type": "string"
+		},
+		"slug": {
+			"description": "Tag slug",
+			"type": "string"
+		}
+	},
+	"required": [ "id", "name", "slug" ]
+}

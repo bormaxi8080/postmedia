@@ -1,0 +1,247 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 211030,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/life/taste-test-famous-blogger-crosses-over-with-the-smitten-kitchen-cookbook",
+	"origin_url_path": "/life/taste-test-famous-blogger-crosses-over-with-the-smitten-kitchen-cookbook",
+	"content_type": "story",
+	"imported_on": "2015-12-09T18:25:43.511Z",
+	"modified_on": "2015-12-09T18:25:43.511Z",
+	"published_on": "2015-12-09T18:25:43.511Z",
+	"global_slug": "",
+	"credits": {
+		"authors": [
+			{
+				"id": "1169",
+				"name": "David Carrigg",
+				"slug": "dcarrigg",
+				"email": "dcarrigg@postmedia.com"
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Taste Test: Famous blogger crosses over with The Smitten Kitchen Cookbook (with video)",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "Deb Perelman started to record her culinary adventures in a blog about ten years ago and got pretty famous in the process. Her collection of recipes debuted at No. 2 on The New York Times best-seller list and more importantly came to my attention through my wife, who is a fangirl. The Smitten Kitchen",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Food and Cooking",
+				"slug": "food-and-cooking"
+			},
+			{
+				"id":  0,
+				"name": "Life Blog",
+				"slug": "life-blog"
+			},
+			{
+				"id":  0,
+				"name": "Staff blog: The Green Man",
+				"slug": "staff-blog:-the-green-man"
+			}
+			
+		],
+		"main_category": {
+			"id": 20,
+			"name": "Life",
+			"slug": "life",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 20,
+				"name": "Life",
+				"slug": "life",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Deb Perelman started to record her culinary adventures in a blog about ten years ago and got pretty famous in the process."
+		},
+		{
+			"id": 0,
+			"type": "blockquote",
+			"content": "Her collection of recipes debuted at No. 2 on The New York Times best-seller list and more importantly came to my attention through my wife, who is a fangirl."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Smitten Kitchen blog about her home cooking adventures garnered Perelman a serious following online, with tens of millions of page views. Sometimes that kind of popularity crosses over into real life and real cookbooks that earn real money, often not. Not only did it cross over, but Perelman has found herself keeping company with the likes of Martha Stewart and doing interviews with Forbes, NPR and the world�s biggest newspapers."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The recipes in The Smitten Kitchen Cookbook are more homey than fancy, but that doesn�t mean boring or pedestrian.</p>\n<p>Perelman likes vegetables and colours that pop. She keeps her recipes simple because she is not a chef, rather an �obsessive home cook."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "I chose to make Leek Fritters with Garlic and Lemon, in part because Perelman casually mentions that these crispy fritters also taste pretty good with a fried egg on top."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Smitten recipes are often riffs on familiar dishes with Perelman�s personal twist. Homemade pizza gets topped with shaved asparagus, the classic moules frites (mussels with french fries) get a pungent hit of tarragon and her tacos are filled with spaghetti squash and black beans."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Her cookies, pies and cakes are just the sort of thing your grandmother would make if she were particularly gifted at baking. (Let�s be honest, not all of them are.) The Chocolate Silk Pie is the sort of thing that people drive for hours to order at an isolated but inexplicably popular diner."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>Recipe: Leek Fritters</strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "2 lbs. (1 kg) leeks"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1/2 tsp salt, plus extra"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "2 scallions, trimmed, halved lengthwise and thinly sliced"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1/4 cup (30 g) all-purpose flour"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1 tsp baking powder"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Black pepper"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Cayenne"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1 large egg"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Olive or vegetable oil, for frying"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Method: Trim leeks, leaving only the white and pale green parts. Halve lengthwise and rinse in cold water, fanning the layers to remove grit. Slice leeks crosswise into 1/4 inch strips. Cook in a pot of boiling water until softened, about 3-4 minutes. Drain and squeeze out excess moisture in a dish towel or cheesecloth."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In a large bowl, combine leeks and scallions. In a small bowl, whisk flour, salt, baking powder, black pepper to taste and cayenne to taste. Combine dry ingredients with leeks and then stir in egg, until evenly coated."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Preheat oven to 250F. Cover a baking sheet in foil and place in oven. Cover a plate with paper towel and place near stove. (Don�t let it catch fire.) In a large, heavy skillet over medium heat, warm 2 tbsp. oil. Drop small bunches of the leek mixture onto the skillet and gently flatten with a spatula. Do not crowd the pan. Cook until fritters are golden brown, about 3 minutes, then turn and fry until golden. Drain on paper towel and transfer to oven for 10 minutes. Serve with Garlic Lemon Cream."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>Garlic Lemon Cream</strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1/2 cup (125 ml) sour cream"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1 tbsp. fresh lemon juice"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1/2 tsp lemon zest"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1/4 tsp salt"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "1 small garlic clove, minced"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Method: In a bowl, whisk all ingredients until smooth."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�Adapted from The Smitten Kitchen"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<b><i>The Smitten Kitchen Cookbook<br />\n</i></b><b><i>Deb Perelman<br />\n</i></b><i>Appetite, 322 pages<br />\n</i>$35"
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/europaMoon46.jpg",
+			"title": "Europa Moon",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1440,
+			"height": 900
+		},
+		"video": {
+			"id": "0_vn1aofsu",
+			"origin": "kaltura",
+			"title": "Video: Taste Test: Deb Perelman�s Leek Fritters",
+			"description": "Randy Shore prepares Deb Perelman�s Leek Fritters from The Smitten Kitchen Cookbook.",
+			"thumbnail": "https://postmediavancouversun.files.wordpress.com/2015/12/fritters.jpg?w=266",
+			"inline": false
+}
+
+	},
+	"metadata": {
+		
+    }
+}

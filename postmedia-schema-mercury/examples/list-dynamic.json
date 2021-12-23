@@ -1,0 +1,13 @@
+{
+	"id": "jhkjhjkhkjhjh666hkjh32424",
+	"type": "dynamic",
+	"client_id": "Yu78gF54JkN1753900w2",
+	"modified_on": "769868766576567",
+	"title": "World News",
+	"slug": "world-news",
+	"description": "Network World News",
+	"status": "published",
+	"query": {
+		"term": { "category": "world" }
+	}
+}

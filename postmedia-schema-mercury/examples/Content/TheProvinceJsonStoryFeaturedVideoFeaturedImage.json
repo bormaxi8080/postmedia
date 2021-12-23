@@ -1,0 +1,277 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 213722,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/entertainment/books/quebec-stands-by-belgium-couillard-says-as-flights-cancelled-security-stepped-up",
+	"origin_url_path": "/entertainment/books/quebec-stands-by-belgium-couillard-says-as-flights-cancelled-security-stepped-up",
+	"content_type": "story",
+	"imported_on": "2016-10-19T18:25:43.511Z",
+	"modified_on": "2016-10-20T18:25:43.511Z",
+	"published_on": "2016-10-21T18:25:43.511Z",
+	"global_slug": "9999 test",
+	"credits": {
+		"authors": [
+			{
+				"id": " ",
+				"name": "",
+				"slug": "hjuhl",
+				"email": ""
+			},
+			{
+				"name": " ",
+				"slug": "The Canadian Press",
+				"email": " "
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Quebec stands by Belgium, Couillard says, as flights cancelled, security stepped up",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "Post excerpt",
+	"origin_slug": "post-title",
+	"taxonomies": {
+		"tags": [
+			{
+				"id": 0,
+				"name": "",
+				"slug": ""
+			}
+			
+		],
+		"main_category": {
+			"id": 0,
+			"name": "Books",
+			"slug": "books",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 0,
+				"name": "Books",
+				"slug": "books",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "GM recalling 200,000 cars over Takata airbag troubles"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "General Motors is recalling about 200,000 <a href='http://driving.ca/saab/' target='_blank'>Saab</a> and <a href='http://driving.ca/saturn/' target='_blank'>Saturn</a> cars in the U.S. and Canada to replace the <a href='http://driving.ca/volkswagen/auto-news/news/nhtsa-says-takata-airbag-recalls-may-widen-to-more-automakers' target='_blank'>Takata driver�s air bag inflators</a>."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+
+		{
+			"id": 0,
+			"type": "short code",
+			"content": "[pn-pullquote /]"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "General Motors is recalling about 200,000 <a href='http://driving.ca/saab/' target='_blank'>Saab</a> and <a href='http://driving.ca/saturn/' target='_blank'>Saturn</a> cars in the U.S. and Canada to replace the <a href='http://driving.ca/volkswagen/auto-news/news/nhtsa-says-takata-airbag-recalls-may-widen-to-more-automakers' target='_blank'>Takata driver�s air bag inflators</a>."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+		{
+			"id": "0_ix8ng0lk",
+			"type": "video",
+			"origin": "kaltura",
+			"title": "",
+			"description": "",
+			"thumbnail": "http://www.domain.com/video/thumbnail.jpg",
+			"inline": true,
+			"shortcode": "[kaltura-widget uiconfid='23273481' entryid='0_ix8ng0lk' width='410' height='364' /]"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "GM recalling 200,000 cars over Takata airbag troubles | Driving"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "General Motors is recalling about 200,000 <a href='http://driving.ca/saab/' target='_blank'>Saab</a> and <a href='http://driving.ca/saturn/' target='_blank'>Saturn</a> cars in the U.S. and Canada to replace the <a href='http://driving.ca/volkswagen/auto-news/news/nhtsa-says-takata-airbag-recalls-may-widen-to-more-automakers' target='_blank'>Takata driver�s air bag inflators</a>."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+
+		{
+			"id": 0,
+			"type": "oembed",
+			"providerUrl": "https://www.youtube.com/watch?v=qGqPgoc95tY",
+			"objectUrl": "https://www.youtube.com/watch?v=qGqPgoc95tY",
+			"channels": ["desktop", "smartphone"]
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "GM recalling 200,000 cars over Takata airbag troubles | Driving"
+		},
+		
+		{
+			"id": 0,
+			"type": "blockquote",
+			"content": "General Motors is recalling about 200,000 <a href='http://driving.ca/saab/' target='_blank'>Saab</a> and <a href='http://driving.ca/saturn/' target='_blank'>Saturn</a> cars in the U.S. and Canada to replace the <a href='http://driving.ca/volkswagen/auto-news/news/nhtsa-says-takata-airbag-recalls-may-widen-to-more-automakers' target='_blank'>Takata driver�s air bag inflators</a>."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+
+		{
+			"id": 0,
+			"type": "oembed",
+			"providerUrl": "https://api.twitter.com/1/statuses/oembed.json",
+			"objectUrl": "https://twitter.com/drivingdotca/status/699747697671192576",
+			"channels": ["desktop", "smartphone"]
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "GM recalling 200,000 cars over Takata airbag troubles | Driving"
+		},
+
+		{
+			"id": 0,
+			"type": "short code",
+			"content": "[related_links /]"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "General Motors is recalling about 200,000 <a href='http://driving.ca/saab/' target='_blank'>Saab</a> and <a href='http://driving.ca/saturn/' target='_blank'>Saturn</a> cars in the U.S. and Canada to replace the <a href='http://driving.ca/volkswagen/auto-news/news/nhtsa-says-takata-airbag-recalls-may-widen-to-more-automakers' target='_blank'>Takata driver�s air bag inflators</a>."
+		},
+
+		{
+			"id": 0,
+			"type": "blockquote",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+		{
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "",
+			"url": "https://www.flickr.com/photos/shobrick/23258748332/in/photolist-Briayh-BdHXqG-AUZS6e-yEondX-yZ6eae-yQmBsL-xR2HzH-xUWq9W-uRdSG8-uhRLEm-s63KRU-rKAkzp-rZEcuw-rX31jq-qTjJ4Q-xQQPxU-qPTcEZ-qAoVmL-pyL1Q6-qdAbK4-pZdGSF-oVFBkw-pNPFrn-pK9hfP-p91hNh-pfBeqv-ob8Jtw-nABiWs-nChhLU-nus6qK-nrK3Lw-msbuYP-kWRkZZ-k5Xz2D-k2XoaD-jU4bNL-jfyjL9-j9Zq27-iqhSwV-pV8pJc-hndyHk-hm9pW7-h8dwCd-gHND1v-gywu9s-gwVUWt-gqKRpY-g7z7bE-fzVUXd-fcozEn",
+			"title": "",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": "",
+			"height": ""
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "https://www.ted.com/talks/gregory_heyworth_how_i_m_discovering_the_secrets_of_ancient_texts"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The move is part of a broader recall of over 5 million vehicles announced last month by U.S. safety regulators."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "https://soundcloud.com/travisscott-2/wonderful-ftthe-weeknd"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "GM recalling 200,000 cars over Takata airbag troubles | Driving"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "General Motors is recalling about 200,000 <a href='http://driving.ca/saab/' target='_blank'>Saab</a> and <a href='http://driving.ca/saturn/' target='_blank'>Saturn</a> cars in the U.S. and Canada to replace the <a href='http://driving.ca/volkswagen/auto-news/news/nhtsa-says-takata-airbag-recalls-may-widen-to-more-automakers' target='_blank'>Takata driver�s air bag inflators</a>."
+		},
+
+		{
+			"id": 0,
+			"type": "oembed",
+			"providerUrl": "http://www.scribd.com/doc/284274952/Sports",
+			"objectUrl": "http://www.scribd.com/doc/284274952/Sports",
+			"channels": ["desktop", "smartphone"]
+		},
+		{
+			"id": 0,
+			"type": "oembed",
+			"providerUrl": "https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity",
+			"objectUrl": "https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity",
+			"channels": ["desktop", "smartphone"]
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "[pngallery id='213872']"
+		}
+
+		
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-10-20T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2016/10/images-5.jpg",
+			"title": "images (5)",
+			"caption": "",
+			"description": "",
+			"credit": "Credit",
+			"distributor": "Dist",
+			"width": 275,
+			"height": 183
+		}
+	},
+	"metadata": {
+		
+    }
+}

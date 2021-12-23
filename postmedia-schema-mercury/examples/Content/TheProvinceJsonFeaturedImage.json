@@ -1,0 +1,287 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 179988,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/sports/maple-leafs-run-their-management-team-through-the-rinse-spin-and-drain-cycle",
+	"origin_url_path": "/sports/maple-leafs-run-their-management-team-through-the-rinse-spin-and-drain-cycle",
+	"content_type": "story",
+	"imported_on": "2015-04-14T18:25:43.511Z",
+	"modified_on": "2015-04-14T18:25:43.511Z",
+	"published_on": "2015-04-14T18:25:43.511Z",
+	"global_slug": "0325 test",
+	"credits": {
+		"authors": [
+			{
+				"id": "1175",
+				"name": "",
+				"slug": "",
+				"email": ""
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Toronto Maple Leafs run their management team through the rinse, spin and drain cycle",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "By Michael Hobson Two weeks before this year�s trade deadline Toronto Maple Leafs President Brendan Shanahan approached the MLSE board of governors and requested the opportunity to dismantle and rebuild. The request was granted. Shanahan then instructed the Leafs management team to deconstruct the roster. A day after the regular season ended Shanahan deconstructed the",
+	"origin_slug": "post-title",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Alex",
+				"slug": "alex"
+			},
+			{
+				"id":  0,
+				"name": "Brendan Shanahan",
+				"slug": "brendan-shanahan"
+			},
+			{
+				"id":  0,
+				"name": "Brian Burke",
+				"slug": "brian-burke"
+			},
+			{
+				"id":  0,
+				"name": "Connor McDavid",
+				"slug": "connor-mcdavid"
+			},
+			{
+				"id":  0,
+				"name": "Dave Nonis",
+				"slug": "dave-nonis"
+			},
+			{
+				"id":  0,
+				"name": "Dion Phaneuf",
+				"slug": "dion-phaneuf"
+			},
+			{
+				"id":  0,
+				"name": "Jake Gardiner",
+				"slug": "jake-gardiner"
+			},
+			{
+				"id":  0,
+				"name": "Morgan Reilly",
+				"slug": "morgan-reilly"
+			},
+			{
+				"id":  0,
+				"name": "Nazem Kadri",
+				"slug": "nazem-kadri"
+			},
+			{
+				"id":  0,
+				"name": "Phil Kessel",
+				"slug": "phil-kessel"
+			},
+			{
+				"id":  0,
+				"name": "Sports Blog",
+				"slug": "sports-blog"
+			},
+			{
+				"id":  0,
+				"name": "The Fan View Blog",
+				"slug": "the-fan-view-blog"
+			},
+			{
+				"id":  0,
+				"name": "toronto blue jays",
+				"slug": "toronto-blue-jays"
+			},
+			{
+				"id":  0,
+				"name": "Toronto Maple Leafs",
+				"slug": "toronto-maple-leafs"
+			},
+			{
+				"id":  0,
+				"name": "Sports",
+				"slug": "sports"
+			},
+			{
+				"id":  0,
+				"name": "Pro Ice Hockey",
+				"slug": "pro-ice-hockey"
+			},
+			{
+				"id":  0,
+				"name": "Pro Basketball",
+				"slug": "pro-basketball"
+			},
+			{
+				"id":  0,
+				"name": "Baseball",
+				"slug": "baseball"
+			}
+			
+		],
+		"main_category": {
+			"id": 31,
+			"name": "Sports",
+			"slug": "sports",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 31,
+				"name": "sports",
+				"slug": "sports",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>By Michael Hobson</strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Two weeks before this year�s trade deadline Toronto Maple Leafs President Brendan Shanahan approached the MLSE board of governors and requested the opportunity to dismantle and rebuild. The request was granted. Shanahan then instructed the Leafs management team to deconstruct the roster. A day after the regular season ended Shanahan deconstructed the management team."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The line of employees must have stretched down the hall outside Shanahan�s office at the Air Canada Centre and wrapped around the corner. More than twenty members of the organization were let go. When Shanahan walked into his office Monday morning the only person he likely saw was his secretary."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Among the fired were General Manager Dave Nonis, interim head coach Peter Horachek, chief pro scout Steve Kasper and Director of Player Development Jim Hughes. The assistant coaches were also relieved of their duties as well as a large portion of the scouting department."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "During Shanahan�s press conference on Monday he stated that it was a rebuild and that it will take as long as it will take. In other words he does not want to fall into the same trap that has ensnared so many of his predecessors. Brian Burke wanted to rebuild but then suddenly traded away three draft choices, including two number ones, to acquire Phil Kessel. It seems doubtful that Shanahan will be lured into the same trap; unlike Burke Shanahan seems to have his ego under control."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "So where and how does the rebuild begin?"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The team that skates out onto the ACC ice in October should better resemble a team on the upswing, rather than the downtrodden group that showed up most nights this year. This means that many of the core members of the hockey team need to be moved, specifically, Kessel and Dion Phaneuf."
+		},
+		
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Kessel is a must move. He has proven to have almost no personality and very little character. This would be fine for a player who was not earning a monstrous salary and was not counted on to be one of the team leaders. Kessel also would be fine on a club where there are other more qualified character guys and leaders allowing him to just play. In Toronto he needs to be one of the team spokespeople and he fails miserably at that task."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Phanuef is a nice player and seems like a character guy but he is essentially a secondary defenseman who is not only overpaid but misplaced as club captain. Phaneuf needs to go to a team where he can be a solid player and perhaps an assistant captain but is not expected the carry the team."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "There are others that can be moved. Perhaps the high paying contracts of Tyler Bozak and Joffrey Lupul but neither is a must go."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "As for the good�Morgan Reilly is a strong and fast skater who looks like he will develop into a quality offensive defenseman. Of course the same was said of Jake Gardiner two years ago but Gardiner�s development has been stunted. Gardiner makes far too many mistakes and doesn�t seem to have the mind to think his way through situations. Still Gardiner�s skill level is high and is worth keeping."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The club will have two first round selections in this year�s draft, including a high first pick. The Leafs go into the lottery with the fourth pick and have a decent chance at winning the Connor McDavid sweepstakes. They cannot fall to lower than the fifth pick so they will get a quality player regardless."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The organization has already done its scouting on possible selections and has a list compiled so the termination of their scouting department will not affect the draft."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The organization also has last year�s number one selection William Nylander but they have very little else."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "When Shanahan requested the rebuild he had to know the process would be years in the making. The Edmonton Oilers have been rebuilding for six years and are still at the bottom of the standings. There is no guarantee that progress will be apparent in three or four years."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "All clubs, no matter which sport and which league, needs to draft well and develop. The Leafs have been abysmally poor in both regards. Just look at Gardiner and his lack of development. Or Nazem Kadri. Both young players who have been with the club long enough that an evolution in their talent and their skill should be apparent. But it is not."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "This is where the next head coach will come in. Whoever it is has to be a proven developer of talent, able to groom young players and make them better."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The next GM will need to have an eye for young talent and an ability to work within the structure created by Shanahan."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "These are not impossible tasks but the Leafs are well known around the league at beginning a rebuild and then throwing money around to hurry the process. If Shanahan can resist the temptation of the market and keep the impatient types in power away from the roster then the club has a chance. Otherwise this will just be another cycle of mediocrity.</p>\n<p>Maple Leafs fans have endured as much mediocre hockey as any fan base deserves."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<em><strong>Thoughts�</strong></em>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "According to Cot`s Baseball Contracts the Toronto Blue Jays payroll entering the 2015 season is $126 million. President Paul Beeston is on record stating that this year�s payroll will be the same as last year�s�$137 million. Using advanced mathematics needed to figure out the difference I have the Jays with $11 million in the bank. General Manager Alex Anthopoulos had worked in previous years under the illusion that more money could be had if asked. Beeston always said that he had never gone to the board and asked for money and been turned down. Whether he never asked or whether Beeston was the one cutting AA off the Jays were never able to add payroll. This year AA has left some wiggle room to add either a big fish at the deadline or several useful guppies. The big fish would be a number one starting pitcher�like Cincinnati�s Johnny Cueto. All indications are that the Reds will not be able to sign Cueto and with this being the final year of his contract if the Reds fall out of contention, which many experts predicts will happen, then Cueto will likely be available. A deal will need to be reached but for the Jays it will be a matter of players, the additional money will not be an issue."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�Who can figure out the Brooklyn Nets? They are the definition of a confounding team. They can play so well�they�ve beaten Cleveland, Toronto twice, Portland, Golden State�and afterward put fear in the minds of their opponents. The Cavs pretty much tanked a couple of games against Boston to play the Celtics in the first round and avoid the Nets. Then the Nets lay consecutive eggs in late season games that will determine whether they make the playoffs. The Nets were blown out in games 80 and 81 scoring 73 and 86 points versus Milwaukee and Chicago. Now the Nets are on the verge of missing the playoffs entirely. No doubt the fear they once created in others has vanished."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Follow me on twitter� <a title=\"mhobson12\" href=\"https://twitter.com/mhobson12\">@mhobson12</a>"
+		}
+
+		
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/04/last-game115.jpeg",
+			"title": "Sports",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1000,
+			"height": 750
+		}
+	},
+	"metadata": {
+		
+    }
+}

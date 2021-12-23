@@ -1,0 +1,19 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/channels.json",
+	"title": "Channels for a content element.",
+	"description": "Holds attributes for what channels a content element can be viewed on.",
+	"type": "object",
+	"properties": {
+		"channels": {
+			"type": "array",
+			"description": "Devices the content element should be shown on.",
+			"uniqueItems": true,
+			"items": {
+				"type": "string",
+				"description": "Device group.",
+				"enum": [ "desktop", "tablet", "smartphone" ]
+			}
+		}
+	}
+}

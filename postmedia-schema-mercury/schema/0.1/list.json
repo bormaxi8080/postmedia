@@ -1,0 +1,70 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/list.json",
+	"title": "A curated or dynamic list.",
+	"description": "Holds attributes of a curated or dynamic list.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Automatically generated ID.",
+			"type": "string",
+		},
+		"type": {
+			"description": "Type of list.",
+			"type": "string",
+			"enum": [ "curated", "dynamic" ]
+		},
+		"client_id": {
+			"description": "ID of the site a curated list was created in, from Client collection.",
+			"type": "string"
+		},
+		"modified_on": {
+			"description": "Date and time the list was last modified.",
+			"type": "string",
+			"format": "date-time"
+		},
+		"title": {
+			"description": "List title.",
+			"type": "string"
+		},
+		"slug": {
+			"description": "List slug.",
+			"type": "string",
+		},
+		"description": {
+			"description": "List descriptions.",
+			"type": "string"
+		},
+		"status": {
+			"description": "Content object status (e.g. published/draft/etc)",
+			"type": "string"
+	    },
+		"content": {
+			"description": "IDs of content on the list.",
+			"type": "array",
+			"uniqueItems": false,
+			"items": {
+				"description": "Content ObjectID.",
+				"type": "string"
+			}
+		},
+		"query": {
+			"description": "ElasticSearch query.",
+			"type": "object",
+			"additionalProperties": {
+				"description": "Metadata field and value.",
+				"type": "object"
+			},
+			"required": [
+				"additionalProperties"
+			]
+		}
+	},
+	"oneOf": [
+		{
+			"required" : [ "type", "content" ]
+		},
+		{
+			"required" : [ "type", "query" ]
+		}]
+}

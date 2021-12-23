@@ -1,0 +1,23 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/embed.json",
+	"title": "An embed.",
+    "description": "A 3rd party embed content element.",
+    "type": "object",
+	"additionalProperties": true,
+	"properties": {
+		"id": {
+			"description": "Embed ID.",
+			"type": "string"
+		},
+		"type": {
+			"description": "Type of content embed.",
+			"type": "string"
+		},
+		"shortcode": {
+			"description": "Shortcode used to embed this content.",
+			"type": "string"
+		}
+	},
+	"required": [ "type" ]
+}

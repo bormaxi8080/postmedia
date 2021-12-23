@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json",
+  "title": "Taxonomies",
+  "description": "The taxonomies available on the content.",
+  "type": "object",
+  "properties": {
+	  "tags": {
+		  "description": "Tags the content is tagged under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/tag.json"
+			  }
+		  }
+	  },
+	  "categories": {
+		  "description": "The categories the content is categorized under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json"
+			  }
+		  }
+	  },
+	  "makes": {
+		  "description": "The makes/models the content is categorized under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json"
+			  }
+		  }
+	  },
+	  "bodystyles": {
+		  "description": "The bodystyle the content is categorized under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json"
+			  }
+		  }
+	  },
+	  "classifications": {
+		  "description": "The classifications the content is categorized under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json"
+			  }
+		  }
+	  },
+	  "model_years": {
+		  "description": "The model years the content is categorized under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json"
+			  }
+		  }
+	  },
+	  "specialsections": {
+		  "description": "The special sections the content is categorized under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json"
+			  }
+		  }
+	  },
+	  "main_taxonomies": {
+		  "description": "The main taxonomies the content is categorized under.",
+		  "type": "array",
+		  "items": {
+			  "type": "object",
+			  "properties": {
+				  "$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomy.json"
+			  }
+		  }
+	  }
+  },
+  "required": [
+	  "main_category",
+	  "categories"
+  ]
+}

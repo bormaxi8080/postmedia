@@ -1,0 +1,44 @@
+{
+	"market": "Vancouver Sun",
+    "device": "ipad",
+	"methods": {
+		"weather": "http://app.canada.com/southparc/weather.svc/currentconditions",
+		"list": "http://api.canada.com/content/list/",
+		"story": "http://api.canada.com/content/id/",
+		"deeplink": "http://api.canada.com/content/url/"
+	},
+	"sections": {
+		"Local News": {
+			"id" : "507f1f77bcf86cd799439011"
+		},
+		"National News": {
+			"id" : "507f1f77bcf86cd799439012"
+		},
+		"World News": {
+			"id" : "507f1f77bcf86cd799439013"
+		},
+		"Sports": {
+			"id" : "507f1f77bcf86cd799439014"
+		},
+		"Entertainment": {
+			"id" : "507f1f77bcf86cd799439015"
+		},
+	},
+	"ads": {
+		"site": "vs.ipad",
+		"network": "3081",
+		"frequency": "3"
+	},
+	"keys": {
+		"brightcove": "uyuiy54u2y3uy44uiy343",
+		"google-analytics": "jhkjh234hkjh4k2j3h4j23h",
+		"omniture": "321jk3h2jh3jhk3h2j3kh2323kjh",
+		"comscore-c2": "3123123",
+		"comscore-secret": "57456546kjhkljj546klj456j5kj",
+		"new-relic": "0987987123h2hk3j1jhk321hkj",
+		"instart-logic": "312312klj3l12j3lj3lkj123j",
+		"mediavoice-id": "5435352klj3l12j3lj3lkj123l",
+		"metering-zone": "4gRfXA5VglpttQ5o-Yul06",
+		"mixpanel-token": "7y7td6697hkjhdqwy44d32"
+	}
+}

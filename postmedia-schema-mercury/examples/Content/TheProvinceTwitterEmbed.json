@@ -1,0 +1,184 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 179717,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/news/local-news/live-update-vancouver-mayor-gregor-robertson-on-oil-spill-response",
+	"origin_url_path": "/news/local-news/live-update-vancouver-mayor-gregor-robertson-on-oil-spill-response",
+	"content_type": "story",
+	"imported_on": "2016-10-29T18:25:43.511Z",
+	"modified_on": "2016-10-29T18:25:43.511Z",
+	"published_on": "2016-10-29T18:25:43.511Z",
+	"global_slug": "",
+	"credits": {
+		"authors": [
+			{
+				"id": "1164",
+				"name": "Rafe Arnott",
+				"slug": "rarnott",
+				"email": "rarnott@postmedia.com"
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Live Update: Vancouver mayor Gregor Robertson on oil spill response",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "<p>Vancouver mayor Gregor Robertson�is at�English Bay this morning�updating media on the oil spill in English Bay. The response to the #VanFuelSpill has been totally inadequate: @MayorGregor &mdash; Derrick Penner (@derrickpenner) April 10, 2015 An estimated 2,800 litres of bulk oil�poured out of the grain�carrier Marathassa in English Bay, Transport Canada confirmed Friday morning. The Canadian [&hellip;]</p>",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Accidents and Disasters",
+				"slug": "accidents-and-disasters"
+			},
+			{
+				"id":  0,
+				"name": "English Bay",
+				"slug": "english-bay"
+			},
+			{
+				"id":  0,
+				"name": "Gregor Robertson",
+				"slug": "gregor-robertson"
+			},
+			{
+				"id":  0,
+				"name": "Now Blog",
+				"slug": "now-blog"
+			},
+			{
+				"id":  0,
+				"name": "oil spills",
+				"slug": "oil-spills"
+			},
+			{
+				"id":  0,
+				"name": "Vancouver",
+				"slug": "vancouver"
+			}
+			
+		],
+		"main_category": {
+			"id": 59542,
+			"name": "Local News",
+			"slug": "local news",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 59542,
+				"name": "Local News",
+				"slug": "local news",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Vancouver mayor Gregor Robertson�is at�English Bay this morning�updating media on the oil spill in English Bay."
+		},
+		{
+			"id": "",
+			"type": "oembed",
+			"providerUrl": "https://api.twitter.com/1/statuses/oembed.json",
+			"objectUrl": "https://twitter.com/derrickpenner/status/586576406219325440",
+			"channels": ["desktop", "smartphone"]
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "An estimated 2,800 litres of bulk oil�poured out of the grain�carrier Marathassa in English Bay, Transport Canada confirmed Friday morning."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Canadian Coast Guard said 80 per cent of the oil have been recovered. The clean up continues this morning and the public is urged to avoid the beaches as crews mop up the toxic sludge."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Vancouver Park Board says city staff are patrolling English Bay, Sunset Beach, Second Beach and Third Beach, telling people to avoid the water until the health and ecological implications are clear."
+
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Robertson said the response to this &#8220;relatively small oil spill&#8221; has been totally inadequate and blamed the lack of coordination on�the�federal and provincial governments."
+		},
+		{
+			"id": "",
+			"type": "oembed",
+			"providerUrl": "https://api.twitter.com/1/statuses/oembed.json",
+			"objectUrl": "https://twitter.com/ParkBoard/status/586577606759292928",
+			"channels": ["desktop", "smartphone"]
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "&#8220;There were huge gaps and bungles at a leadership level that were totally�inadequate,&#8221; Robertson said Friday. �&#8220;It goes back to lack of leadership federally and provincially to make sure these efforts are coordinated.&#8221;</p>\n<p>The Coast Guard first responded to a report of a spill just after 5 p.m. on�Wednesday. The city wasn&#8217;t made aware of the situation until Thursday morning."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Coast Guard first responded to a report of a spill just after 5 p.m. on�Wednesday. The city wasn&#8217;t made aware of the situation until Thursday morning."
+		},
+		
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Robertson is asking:"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<ol>\n<li>Why it took six hours for booms to be put in place to clean up the oil?</li>\n<li>Why it took 12 hours for the city to be notified?</li>\n<li>Why, 42 hours later, do we not know exactly what the toxic substance is?</li>\n</ol>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "&#8220;We take pride in our city &#8230; and this is our worst nightmare to see our beaches at risk and not be able to do anything about it,&#8221; said Robertson."
+		},
+		{
+			"id": 0,
+			"type": "oembed",
+			"providerUrl": "https://api.twitter.com/1/statuses/oembed.json",
+			"objectUrl": "https://twitter.com/ParkBoard/status/586570286524473344",
+			"channels": ["desktop", "smartphone"]
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<em>More to come</em>"
+		}
+		
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/04/bacon-burst3.jpg",
+			"title": "Bacon!",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1600,
+			"height": 1143
+		}
+	},
+	"metadata": {
+		
+    }
+}

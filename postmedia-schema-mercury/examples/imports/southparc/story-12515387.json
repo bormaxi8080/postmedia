@@ -1,0 +1,181 @@
+{
+	"origin_id": "12515387",
+	"origin_cms": "southparc",
+	"origin_url_path": "/entertainment/cnns+jake+tapper+pushes+answers+then+pushes+more/12515387/story.html",
+	"type": "story",
+	"modified_on": "2016-12-12T15:10:02.477Z",
+	"published_on": "2016-12-12T15:10:02.477Z",
+	"status": "published",
+	"credits": {
+		"authors": [
+			{
+				"name": "David Bauder, The Associated Press"
+			}
+		]
+	},
+	"titles": {
+		"main": "CNN's Jake Tapper pushes for answers and then pushes more",
+		"alternative": "CNNs Jake Tapper pushes for answers and then pushes more"
+	},
+	"excerpt": "NEW YORK, N.Y. - Jake Tapper's verbal tug-of-war with Vice-President-elect Mike Pence last week illustrated a persistent style the CNN anchor is making his signature, and one that he hopes his colleagues take up, too.",
+	"taxonomies": {
+		"main_taxonomies": [
+			{
+				"type": "category",
+				"name": "Entertainment",
+				"slug": "entertainment",
+				"path": "/Entertainment/"
+			}
+		],
+		"categories": [
+			{
+				"name": "Entertainment",
+				"slug": "entertainment",
+				"path": "/Entertainment/",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": "001",
+			"type": "text",
+			"content": "NEW YORK, N.Y. - Jake Tapper's verbal tug-of-war with Vice-President-elect Mike Pence last week illustrated a persistent style the CNN anchor is making his signature, and one that he hopes his colleagues take up, too.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "002",
+			"type": "text",
+			"content": "Tapper asked Pence eight times about the son of Lt. Gen. Michael Flynn, the incoming administration's pick as national security adviser, before getting a somewhat direct answer. Tapper wanted to establish whether Pence was aware that Flynn's son, who had trafficked in conspiracy theories online, had received a national security clearance for work on the transition to a Trump administration.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "003",
+			"type": "text",
+			"content": "It wasn't the first time Tapper has shown pit bull-like tendencies when an interview subject avoided a question. Interviewing Donald Trump in June, Tapper needed to ask his question about the judge in a case against Trump University, or try to interrupt a filibuster, nearly two dozen times.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "004",
+			"type": "text",
+			"content": "\"Far too many people in television provide a safe space for politicians instead of pushing back and saying 'you didn't answer this question,'\" said Tapper, host of the weekday afternoon show \"The Lead\" and Sunday's \"State of the Union\" interview program.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "005",
+			"type": "text",
+			"content": "It's not as easy as it sounds.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "006",
+			"type": "text",
+			"content": "When Tapper first posed his question to Pence, the politician was smooth and genial in avoiding the point entirely, presumably in an attempt to avoid offering an easy headline. He praised the new appointee as a \"dedicated family man\" whose son had given some minor scheduling help.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "007",
+			"type": "text",
+			"content": "Tapper tried again, and again. \"I want to move on to other issues but I'm afraid we just didn't get an answer,\" he said. \"Were you aware that the transition team put in for a security clearance for Mike Flynn, Jr.?\"",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "008",
+			"type": "text",
+			"content": "As Pence employed other tactics — saying the young Flynn wasn't helping his father anymore and that the media wanted to create a distraction for the transition — you could read the calculation on Tapper's face.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "009",
+			"type": "text",
+			"content": "At what point does continuing become counter-productive, making Tapper seem like a bully and the exchange more of an issue than the actual question? Tapper risked establishing himself as an enemy to Trump's supporters and saw valuable time ticking away to address other subjects with Pence.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "010",
+			"type": "text",
+			"content": "Tapper pressed forward, eventually moving on after Pence said the \"appropriate paperwork\" had been filed on the young Flynn's behalf.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "011",
+			"type": "text",
+			"content": "Tim Graham of the conservative watchdog Media Research Center said he generally admires Tapper for the journalist's willingness to ask tough questions of both Republicans and Democrats. He certainly can annoy both sides: in emails leaked this fall, Clinton campaign chairman John Podesta calls Tapper a profane name for a jerk, and a colleague heartily agrees.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "012",
+			"type": "text",
+			"content": "With Pence, \"some could argue that by the time he didn't answer it the third time, it was clear he didn't want to answer it,\" Graham said. \"By the time you're asking it a seventh time, it's clear that you're beating the horse into paste.\"",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "013",
+			"type": "text",
+			"content": "Others see in Tapper an admirable example of someone who takes seriously a journalist's duty to keep an eye on elected officials.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "014",
+			"type": "text",
+			"content": "\"When you challenge somebody, even if you do it politely, there are risks,\" Tapper said. \"We as humans are wired to avoid conflict, avoid discomfort. When you ask follow-ups you are going toward conflict and toward discomfort. And you don't want the viewers feeling uncomfortable, that you're beating somebody up or being unfair.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "015",
+			"type": "text",
+			"content": "\"Obviously nobody wants to not ever get any interviews again with a new administration,\" he said. \"These aren't new dilemmas for me or anybody else in the media.\"",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "016",
+			"type": "text",
+			"content": "Tapper suspects his work has affected his access. He noted that he didn't get interviews with Trump or Clinton after June, although, to be fair, both candidates sharply curtailed media access after earning nominations.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "017",
+			"type": "text",
+			"content": "Tapper's efforts have attracted attention outside of journalism. In recent weeks, late-night comics Samantha Bee and Trevor Noah both gave Tapper unprintable \"awards\" for hacking through political weeds.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "018",
+			"type": "text",
+			"content": "Still, there's much more work to come.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "019",
+			"type": "text",
+			"content": "\"I've never seen anything like the brazen falsehoods and conspiracy theories that the press has had to deal with,\" Tapper said. \"Unfortunately, the easier thing to do is refer to a crazy conspiracy theory as a claim and report that some people challenged the claim. But truth and decency matter. If we're not going to call people out when they're saying things that are untrue, who is?\"",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "020",
+			"type": "text",
+			"content": "___",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "021",
+			"type": "text",
+			"content": "Follow David Bauder at twitter.com/dbauder. His work can be found at http://bigstory.ap.org/content/david-bauder",
+			"paragraph": "wrap"
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": "12515388",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-12-12T15:10:02.587Z",
+			"url": "http://www.ottawacitizen.com/entertainment/cms/binary/12515388.jpg",
+			"title": "FILE - In this June 20, 2016 file photo, CNN news anchor Jake Tapper attends the Museum of the Moving Image's 2016 Industry Tribute in New York. Tapper hosts of the weekday CNN afternoon show \"The Lead\" and Sunday's \"State of the Union\" interview program. (Photo by Evan Agostini/Invision/AP, File)",
+			"caption": "FILE - In this June 20, 2016 file photo, CNN news anchor Jake Tapper attends the Museum of the Moving Image's 2016 Industry Tribute in New York. Tapper hosts of the weekday CNN afternoon show \"The Lead\" and Sunday's \"State of the Union\" interview program. (Photo by Evan Agostini/Invision/AP, File)",
+			"description": "FILE - In this June 20, 2016 file photo, CNN news anchor Jake Tapper attends the Museum of the Moving Image's 2016 Industry Tribute in New York. Tapper hosts of the weekday CNN afternoon show \"The Lead\" and Sunday's \"State of the Union\" interview program. (Photo by Evan Agostini/Invision/AP, File)",
+			"width": 640,
+			"height": 467
+		}
+	}
+}

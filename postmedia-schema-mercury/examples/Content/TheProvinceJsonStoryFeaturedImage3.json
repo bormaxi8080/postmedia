@@ -1,0 +1,160 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 211125,
+	"origin_cms": "wordpress",
+	"origin_url": "http://theprovince.wpdstg1.canada.com/news/local-news/are-vancouver-parks-fish-and-chips-on-the-endangered-list",
+	"origin_url_path": "/news/local-news/are-vancouver-parks-fish-and-chips-on-the-endangered-list",
+	"content_type": "story",
+	"imported_on": "2015-12-23T18:25:43.511Z",
+	"modified_on": "2015-12-23T18:25:43.511Z",
+	"published_on": "2015-12-23T18:25:43.511Z",
+	"global_slug": "",
+	"credits": {
+		"authors": [
+			{
+				"id": "1164",
+				"name": "Rafe Arnott",
+				"slug": "rarnott",
+				"email": "rarnott@postmedia.com"
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Are Vancouver Parks' fish and chips on the endangered list?",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "I don�t get out to Vancouver�s park concessions too often. Usually, it is in the fall, when I grab a cup of hot cup of coffee to warm my hands as I walk along the Stanley Park seawall. I can�t remember the last time I bought fish and chips at the Lumberman�s Arch concession. Former ",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Christopher Richardson",
+				"slug": "christopher-richardson"
+			},
+			{
+				"id":  0,
+				"name": "concession stands",
+				"slug": "concession-stands"
+			},
+			{
+				"id":  0,
+				"name": "Sarah Kirby-Yung",
+				"slug": "sarah-kirby-yung"
+			},
+			{
+				"id":  0,
+				"name": "Staff blog: Civic Lee Speaking",
+				"slug": "staff-blog:-civic-lee-speaking"
+			},
+			{
+				"id":  0,
+				"name": "Stanley Park (Vancouver)",
+				"slug": "stanley-park-(vancouver)"
+			},
+			{
+				"id":  0,
+				"name": "Vancouver",
+				"slug": "vancouver"
+			},
+			{
+				"id":  0,
+				"name": "Vancouver Parks",
+				"slug": "vancouver-parks"
+			},
+			{
+				"id":  0,
+				"name": "Vision Vancouver",
+				"slug": "vision-vancouver"
+			}
+			
+		],
+		"main_category": {
+			"id": 59542,
+			"name": "Local News",
+			"slug": "local-news",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 59542,
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "I don�t get out to Vancouver�s park concessions too often. Usually, it is in the fall, when I grab a cup of hot cup of coffee to warm my hands as I walk along the Stanley Park seawall. I can�t remember the last time I bought fish and chips at the Lumberman�s Arch concession.</p>\n<div id=\"attachment_197447\" style=\"width: 310px\" class=\"wp-caption alignright\"><img class=\"size-medium wp-image-197447\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/png0616_only_1_24141316.jpg?w=300\" alt=\"Refurbished neon sign for The Only Seafoods . Glenn Baglo, PNG\" width=\"300\" height=\"200\" /><p class=\"wp-caption-text\">Refurbished neon sign for The Only Seafoods . Glenn Baglo, PNG</p></div>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Former park board commissioner Christopher Richardson has noted in the past that if you didn&#8217;t get your fish and chips fix at Lumberman&#8217;s Arch �concession, you got it at The Only Seafood restaurant on Hastings Street. Unfortunately, that little hole-in-the-wall restaurant with its funky sign �just west of Main is no longer, another blow to Vancouver&#8217;s early fish port history."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "But if Sarah Kirby-Yung, the newly-elected park board chairwoman has her way, <a href=\"http://www.vancouversun.com/life/vancouver+park+board+seeks+modernize+antiquated+concession/11608362/story.html\"><span style=\"text-decoration:underline;\">some of the park board&#8217;s concessions will</span></a><span class=\"Apple-converted-space\"><a href=\"http://www.vancouversun.com/life/vancouver+park+board+seeks+modernize+antiquated+concession/11608362/story.html\"><span style=\"text-decoration:underline;\">� have to drop fish and chips</span></a> from their menu and fire up woks and frying pans�for�</span>more diverse foods such as pad Thai and Chicken Tikka Massala."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "When I interviewed her for a story about her proposal to revamp 14 of the concession stands, Kirby-Yung insisted she�s not trying to do away with all of the hallowed fish and chips concessions Vancouverites have come to love."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Instead, she argues we should also be celebrating some of the city�s diversity by bringing in healthier choices. Her plan is similar to one <span style=\"text-decoration:underline;\"><a href=\"http://www.canada.com/story.html?id=5406b7df-44ee-470b-b311-36ca7cab84f7\">the Non-Partisan Association park board of 2006 tried</a></span>, but failed to enact. It wanted to change the menus, consolidate the concessions under fewer operators, and do away with a warehouse it operates that gives concessionaires a bit of a break. It faced a backlash from both vendors and the public, who liked things the way they were."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Since then we�ve had additions to the menu of Fraser Valley corn, fruit cups and other local items, <span style=\"text-decoration:underline;\"><a href=\"http://www.vancourier.com/news/vancouver-park-board-concessions-get-culinary-makeover-1.577589\">courtesy of the last Vision Vancouver board</a></span>, whose mantra is to eat local."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "For my story I interviewed Ruben Chapiel, who operates the Spanish Banks East concession for his daughter, Allice, who has the contract.<span class=\"Apple-converted-space\">� </span>At 75 &#8211; he�ll be 76 next month &#8211; he�s witnessed the fickle nature of park-goers and notes that even on the coldest days fish and chips are his top seller."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "He�s tried other healthier foods &#8211; the salads are hit in the summer &#8211; but an experiment with paninis was a flop &#8211; so he�s a bit worried that a park board plan to vary the menu could undermine the financial stability of some of the operators."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "We�ll see what happens."
+		}
+			
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/bacon-burst470.jpg",
+			"title": "Bacon!",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1600,
+			"height": 1143
+		}
+	},
+	"metadata": {
+		
+    }
+}

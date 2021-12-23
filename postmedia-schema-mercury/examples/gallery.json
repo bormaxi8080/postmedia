@@ -1,0 +1,121 @@
+{
+	"id": "657f1f55bcf86cd799769023",
+	"client_id": "87ggf77bcf86cd799439011",
+	"license_id": "12gh4b88cx09as6745632100",
+	"origin_id": "34567",
+	"origin_cms": "wordpress",
+	"origin_url": "http://montrealgazette.com/news/local-news/post-title",
+	"origin_url_path": "/news/local-news/post-title",
+	"type": "gallery",
+	"imported_on": "2012-04-23T18:25:43.511Z",
+	"modified_on": "2012-04-23T18:25:43.511Z",
+	"published_on": "2012-04-23T18:25:43.511Z",
+	"global_slug": "0412 post-title",
+	"status": "published",
+	"credits": {
+		"authors": [
+			{
+				"id": "265558",
+				"name": "Matthew Pearson",
+				"slug": "mpearson78",
+				"email": "mpearson@ottawacitizen.com"
+			}
+		],
+		"distributor": "Ottawa Citizen"
+	},
+	"titles": {
+		"main": "Post Title",
+		"sub": "Post sub title",
+		"alternative": "Post alternative title",
+		"concise": "Post concise title"
+	},
+	"excerpt": "Post excerpt",
+	"origin_slug": "post-title",
+	"taxonomies": {
+		"tags": [
+			{
+				"id": "342",
+				"name": "Montreal",
+				"slug": "montreal-2"
+			},
+			{
+				"id": "421",
+				"name": "Laval",
+				"slug": "laval-3"
+			}
+		],
+		"main_taxonomies": [
+			{
+				"id": "123",
+				"type": "category",
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "/News/Local News/"
+			}
+		],
+		"categories": [
+			{
+				"id": "123",
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "/News/Local News/",
+				"main": true
+			},
+			{
+				"id": "456",
+				"name": "Local Business",
+				"slug": "local-business",
+				"path": "/Business/Local Business/"
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": "276",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-06-25T011:43:52.52Z",
+			"url": "http://wpmedia.montrealgazette.com/2016/07/tyler-enroth.jpeg",
+			"title": "Leafs look to Enroth to play goal",
+			"caption": "Former King to sign with the Leafs",
+			"description": "Former Kings goalie to sign with the Leafs",
+			"credit": "Homer Simpson",
+			"distributor": "National Post",
+			"width": 800,
+			"height": 640
+		},
+		{
+			"id": "277",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-06-25T011:45:58.52Z",
+			"url": "http://wpmedia.montrealgazette.com/2016/07/austin-matthews.jpeg",
+			"title": "Leafs Draft Austin Matthews number 1",
+			"caption": "Austin Matthews is now a Leaf",
+			"description": "Austin Matthews is now a Leaf",
+			"credit": "Homer Simpson",
+			"distributor": "National Post",
+			"width": 800,
+			"height": 640
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": "277",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-06-25T011:45:58.52Z",
+			"url": "http://wpmedia.montrealgazette.com/2016/07/austin-matthews.jpeg",
+			"title": "Leafs Draft Austin Matthews number 1",
+			"caption": "Austin Matthews is now a Leaf",
+			"description": "Austin Matthews is now a Leaf",
+			"credit": "Homer Simpson",
+			"distributor": "National Post",
+			"width": 800,
+			"height": 640
+		}
+	},
+	"metadata": {
+		"doa": "ith"
+	}
+}

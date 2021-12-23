@@ -1,0 +1,404 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 211140,
+	"origin_cms": "wordpress",
+	"origin_url": "http://theprovince.wpdstg1.canada.com/life/in-a-way-arent-we-all-refugees",
+	"origin_url_path": "/life/in-a-way-arent-we-all-refugees",
+	"content_type": "story",
+	"imported_on": "2015-12-24T18:25:43.511Z",
+	"modified_on": "2015-12-24T18:25:43.511Z",
+	"published_on": "2015-12-24T18:25:43.511Z",
+	"global_slug": "",
+	"credits": {
+		"authors": [
+			{
+				"id": "",
+				"name": "David Carrigg",
+				"slug": "dcarrigg",
+				"email": "dcarrigg@postmedia.com"
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "In a way, aren't we all refugees?",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "Archbishop Michael Miller has a poignant Christmas card on his desk showing Mary and Joseph as refugees, carrying infant Jesus to escape being persecuted by King Herod. �At Christmas, refugees are a particularly important thing to reflect on,� says Miller, who oversees more than 400,000 Roman Catholics in Metro Vancouver, a significant portion of whom ",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id": 0,
+				"name": "asylum seekers",
+				"slug": "asylum-seekers"
+			},
+			{
+				"id":  0,
+				"name": "Bible",
+				"slug": "bible"
+			},
+			{
+				"id": 0 ,
+				"name": "Christians",
+				"slug": "christians"
+			},
+			{
+				"id":  0,
+				"name": "Harry Maier",
+				"slug": "harry-maier"
+			},
+			{
+				"id":  0,
+				"name": "Life Blog",
+				"slug": "life-blog"
+			},
+			{
+				"id":  0,
+				"name": "Muslims",
+				"slug": "muslims"
+			},
+			{
+				"id":  0,
+				"name": "New Testament",
+				"slug": "new-testament"
+			},
+			{
+				"id":  0,
+				"name": "Refugees",
+				"slug": "refugees"
+			},
+			{
+				"id": 0 ,
+				"name": "Roman Catholics",
+				"slug": "roman-catholics"
+			},
+			{
+				"id": 0 ,
+				"name": "Sharia",
+				"slug": "sharia"
+			},
+			{
+				"id": 0 ,
+				"name": "Shariah",
+				"slug": "shariah"
+			},
+			{
+				"id":  0,
+				"name": "Spirituality",
+				"slug": "spirituality"
+			},
+			{
+				"id":  0,
+				"name": "Staff blog: The Search",
+				"slug": "staff-blog:-the-search"
+			},
+			{
+				"id":  0,
+				"name": "Theology",
+				"slug": "theology"
+			}
+			
+		],
+		"main_category": {
+			"id": 20,
+			"name": "Life",
+			"slug": "life",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 20,
+				"name": "Life",
+				"slug": "life",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong><a href=\"http://blogs.vancouversun.com/2015/10/22/vancouver-mayor-and-catholic-archbishop-join-to-fight-climate-change/\">Archbishop Michael Miller </a></strong>has a poignant Christmas card on his desk showing Mary and Joseph as refugees, carrying infant Jesus to escape being persecuted by King Herod."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�At Christmas, refugees are a particularly important thing to reflect on,� says Miller, who oversees more than 400,000 Roman Catholics in Metro Vancouver, a significant portion of whom came as refugees from the Middle East."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The painting on the card is The Flight Into Egypt, by 16th-century artist Jans de Beer. As Miller describes it, �Joseph is wearing a hat, like a peasant. Mary is on the donkey, and a little baby is popping out from between her robe.�"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The de Beer painting is just one of many in Western history that have depicted Jesus and his parents going into exile: All bring home how compassion for refugees is a central message in the Bible."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The theology of displaced people is summed up for many Christians in Matthew�s account of Jesus�s parents fleeing Israel so their baby will be saved from the king�s edict to kill all first-born sons, one of whom Herod had been told would grow up to be his rival."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>RELATED: <a href=\"http://blogs.vancouversun.com/2015/11/27/vancouvers-religious-groups-pull-out-the-stops-for-syrians/\">Vancouver religious groups pull out stops for Syrians</a><br />\n</strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong><a href=\"http://blogs.vancouversun.com/2015/11/29/refugee-crisis-the-way-to-help-more-displaced-people/\">Refugee crisis: The way to help more displaced people</a></strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong><a href=\"http://blogs.vancouversun.com/2012/03/05/jesus-christ-is-creative-transformation/\">Jesus is &#8216;creative transformation&#8217;</a></strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The family�s flight is a reminder of the havoc wreaked on innocent people by megalomaniac leaders, say Bible scholars."
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "<div id=\"attachment_197502\" style=\"width: 214px\" class=\"wp-caption alignright\"><img class=\" wp-image-197502\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/8330188.jpg?w=300\" alt=\"Even though Archbishop Michael Miller is aware that most refugees want to stay close to their home countries, he believes the Bible is clear that humans are called to ease the anguish of those who are displaced.\" width=\"204\" height=\"152\" /><p class=\"wp-caption-text\">Even though Archbishop Michael Miller is aware that most refugees want to stay close to their home countries, he believes the Bible is clear that humans are called to ease the anguish of those who are displaced.</p></div>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The lessons in the ancient story remain tragically germane today in light of the war in Syria (not far from where Jesus lived 2,000 years ago), which has already thrown 10 million people out of their homes."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Even though the archbishop is aware that most refugees want to stay close to their home countries, and even though he has concerns that some Canadians might start to see themselves as �the big saviours� of refugees, Miller believes the Bible is clear that humans are called to ease the anguish of those who are displaced."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Members of the Catholic archdiocese are privately sponsoring hundreds of the 25,000 Syrian refugees Canada has agreed to accept, on top of the thousands of persecuted Iraqi Chaldeans they have already brought to the city in the past seven years."
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "The commitment of local Catholics to refugees goes back at least three decades, to when they sponsored thousands of Vietnamese boat people desperate to escape that war-torn Southeast Asian country."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Iconographic images of Jesus, Joseph and Mary travelling into exile will be highlighted, Miller said, when the archdiocese celebrates World Migrant Day at a special service at St. Xavier (Chinese) Catholic Church on Jan. 17."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The theme of giving support to �wandering people� is not only central to B.C.�s roughly two million Christians, however. It is highly significant among many of the province�s more than 25,000 <strong><a href=\"http://blogs.vancouversun.com/2010/11/20/who-was-jesus-muslims-jews-and-christians-discuss/\">Jews.</a></strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong><a href=\"http://blogs.vancouversun.com/2013/12/21/religious-humour-urges-dont-take-yourself-too-seriously/\">Rabbi Dan Moskovitz</a></strong> of Vancouver�s Temple Sholom is among those organizing sponsorships of Syrian refugees, many of whom will be Muslims. The Hebrew Bible (Old Testament), Moskovitz says, commands Jews to �love the stranger because we were once strangers in the land.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In addition, many of Metro Vancouver�s 75,000-member Muslim community have taken part in a fundraising dinner to sponsor Syrian refugees. Organizers say it is the duty of Muslims, under shariah law, to take in persecuted people."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "For his part, Rev. Jim Short, who frequently serves as a chaplain to Canadian soldiers, says he feels �closer to Jesus� this Christmas because the world seems beset by war, terrorism and people forced into exile."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Ladner United Church minister not only sees Jesus as a displaced person, but as one who grew up to embrace strangers and outcasts. Roughly half of the 200 <strong><a href=\"http://blogs.vancouversun.com/2012/10/14/united-church-of-canada-moderator-and-by-the-way-hes-gay/\">United Church</a></strong> congregations in B.C. are sponsoring refugees."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Since Short has been an eyewitness to destruction while serving as a chaplain in war-ravaged Afghanistan, he holds onto the conviction that Jesus Christ �brings light to a violent world.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Even though support for Syrian refugees runs across all Christian denominations in the province, from Catholics to evangelical Protestants to Armenian Orthodox, Short believes Canadians should also be calling on their governments to �donate larger amounts of money to care for those in refugee camps,� particularly through the UN High Commissioner for Refugees."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Not all Syrians want to come to Canada, Short points out. It is often forgotten that in Middle Eastern countries �the sense of where you come from, the value of connectedness to family, tribe, land and home is spiritually strong.�</p>\n<p>When it comes to the pivotal New Testament story in Matthew about the flight of Jesus�s family to Egypt, both Short and Miller acknowledge some Bible scholars dispute its historical accuracy."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "But that doesn�t stop either from seeing a powerful lesson in the account � a moral story about how God works in the world, calling humans to respect the stranger and bring grace to often-cruel events."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "While B.C. Christians have been going out of their way this fall to sponsor refugees, University of B.C. graduate student Shenaz Hanif-Shahban has been speaking this month at a Muslim dinner that <strong><a href=\"http://blogs.vancouversun.com/2015/11/24/vancouver-muslims-want-security-focus-on-new-syrian-refugees/\">raised more than $300,000</a></strong> for people from Syria."
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "Hanif-Shahban says Islamic tradition stipulates it is the duty of Muslims to �uphold the rights of the poor and needy� and protect refugees.</p>\n<div id=\"attachment_197499\" style=\"width: 173px\" class=\"wp-caption alignright\"><img class=\" wp-image-197499\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/shenaz-hanif-shahban.jpg?w=225\" alt=\"�Islam obliges host societies to give asylum-seekers a generous reception � and for that the hosts will be rewarded,&quot; says Shenaz Hanif-Shahban.\" width=\"163\" height=\"217\" /><p class=\"wp-caption-text\">�Islam obliges host societies to give asylum-seekers a generous reception � and for that the hosts will be rewarded,&#8221; says Shenaz Hanif-Shahban."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Islam obliges host societies to give asylum-seekers a generous reception � and for that the hosts will be rewarded. Islamic law, or <strong><a href='http://blogs.vancouversun.com/2013/06/08/sharia-set-off-alarms-in-canada-check-the-facts/'>shariah</a></strong>, affirms the practice of providing sanctuary to persecuted persons."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In 662 AD, the <strong><a href=\"http://blogs.vancouversun.com/2008/04/24/mohammed-a-polygamist-chose-wives-who-were-leaders/\">Prophet Muhammad</a></strong> fled persecution in Mecca and sought refuge in Medina, says Hanif-Shahban, whose PhD focuses on the integration of young Syrian refugees into Canada."
+		},
+		{
+			"id":0,
+			"type": "text",
+			"content": "�This hijrah, or migration, came to symbolize the movement of Muslims from lands of oppression to those of � peace and submission to God�s will. The hospitable treatment of Muhammad by the people of Medina embodies the Islamic model of refugee protection contained in the Quran.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�Under shariah law,� she says, �asylum should be provided without discriminating between free persons and those who are enslaved, between rich and poor, men and women, or Muslims and non-Muslims.�"
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "Vancouver School of Theology professor <strong><a href=\"http://blogs.vancouversun.com/2015/12/20/who-are-the-prophets-of-our-age/\">Harry Maier</a> </strong>says the entire Hebrew Bible, often known as the Old Testament, is a book about refugees."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The story of the ancient Jews is �about a people who flee slavery in Egypt with little more than the clothes on their back. It is a story about people who are conquered by two empires and are taken into exile. It is a story about a people who, after being conquered, are dispersed into the world where they have to find their way and find a new home,� says the New Testament specialist."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "By the time Jesus, a Jew, was born, Maier says, Jews were dispersed across the Roman Empire, often treated as aliens, robbed and murdered. The traditional accounts about the birth of Jesus, he says, �take place against a backdrop of imperial violence, economic oppression, political expediency, and inequity.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In particular, he says, the story of the flight of Jesus�s parents to Egypt after Herod threatens to kill all infants under two expresses how �political megalomania results in untold suffering for the nobodies of the world. Jesus, Mary and Joseph are nobodies.�"
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "In that regard, the family were typical refugees, says Maier, a <strong><a href=\"http://blogs.vancouversun.com/2009/08/31/anglicans-lutherans-engage-the-spiritual-but-not-religious/\">Lutheran</a></strong>. �They were people who have to live by their wits and find a way to survive.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Maier goes further, however. He asks people to think deeper about the meaning of the word, refugee."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "He suggests that thinking about refugees during Jesus�s time should not only conjure up images of people fleeing Syria today, it should get us talking about the homeless."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<div id=\"attachment_197500\" style=\"width: 191px\" class=\"wp-caption alignright\"><img class=\" wp-image-197500\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/harry_small.jpg?w=300\" alt=\"�Maybe when we understand we are all refugees we can understand that to welcome someone is not about charity, but about solidarity,&quot; says VST Prof. Harry Maier.\" width=\"181\" height=\"181\" /><p class=\"wp-caption-text\">�Maybe when we understand we are all refugees we can understand that to welcome someone is not about charity, but about solidarity,&#8221; says VST Prof. Harry Maier.</p></div>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�The Jesus tradition points more to the daily refugees we don�t see in the news these days, namely, the homeless on our streets,� he says."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�Jesus makes best sense when we realize that his call to generosity, thanksgiving, sharing of goods, and forgiveness of debt is issued in a world where people have lost their property due to taxation or failure of crops, where there is endemic unemployment, where there are people living at the edge of starvation.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Even though Maier knows he is stretching the meaning of the word �refugee�, he believes all those who seek refuge from suffering are refugees."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Indeed, Maier goes one profound step further."
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "�The New Testament together with the Hebrew Scriptures might ask us, �Who are the real refugees?� Are they the people without a home, or are they people who don�t know where home is?�"
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "Wherever there is hatred, violence, estrangement, poverty and the breakdown of relationships, Maier believes there are refugees in this more universal sense."
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "�Maybe when we understand we are all refugees we can understand that to welcome someone is not about charity, but about solidarity and a love that compels action to everyone we meet,� says the Bible specialist."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�If we are all refugees, there are no refugees anymore. There are only people who seek, like we all do, welcome, love, the generous sharing of material and emotional goods, care, respect, and safety.�"
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "<a href=\"mailto:dtodd@vancouversun.com\" target=\"\">dtodd@vancouversun.com</a>"
+		},
+		{
+			"id":0 ,
+			"type": "text",
+			"content": "<strong><a href=\"https://twitter.com/DouglasTodd\">Twitter.com/@douglastodd</a></strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>MORE RELATED: <a href=\"http://blogs.vancouversun.com/2014/07/26/immigrants-refugees-and-the-poor-rethinking-compassion/\">Refugees and the poor: Rethinking compassion</a></strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong><a href=\"http://blogs.vancouversun.com/2014/09/24/how-many-christian-asylum-seekers-are-really-christians/\">How many &#8220;Christian&#8221; asylum seekers are really Christians?</a></strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong><a href=\"http://blogs.vancouversun.com/2015/11/24/vancouver-muslims-want-security-focus-on-new-syrian-refugees/\">Vancouver Muslims want security focus on new Syrian refugees</a></strong>"
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/europaMoon63.jpg",
+			"title": "Europa Moon",
+			"caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1440,
+			"height": 900
+		}
+
+	},
+	"metadata": {
+		
+    }
+}

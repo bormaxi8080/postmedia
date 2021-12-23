@@ -1,0 +1,253 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 206387,
+	"origin_cms": "wordpress",
+	"origin_url": "http://theprovince.wpdstg1.canada.com/news/local-news/hand-crafted-first-nations-art-lands-at-vancouver-international-airport",
+	"origin_url_path": "/news/local-news/hand-crafted-first-nations-art-lands-at-vancouver-international-airport",
+	"content_type": "story",
+	"imported_on": "2015-12-24T18:25:43.511Z",
+	"modified_on": "2015-12-24T18:25:43.511Z",
+	"published_on": "2015-12-24T18:25:43.511Z",
+	"global_slug": "1224 handcrafted",
+	"credits": {
+		"authors": [
+			{
+				"id": "",
+				"name": "",
+				"slug": "",
+				"email": ""
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Hand-crafted First Nations art lands at Vancouver International Airport",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "A retail store near Granville Island known for selling handmade indigenous art has now opened a second location at Vancouver International Airport. Lattimer Gallery�s new space is in one of the most prominent and highly coveted locations at the airport, right next to The Spirit of Haida Gwaii: The Jade Canoe, Bill Reid�s monumental bronze sculpture in the international terminal.",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Arts",
+				"slug": "arts"
+			},
+			{
+				"id":  0,
+				"name": "Entertainment and Media",
+				"slug": "entertainment-and-media"
+			},
+			{
+				"id":  0,
+				"name": "Bill Reid",
+				"slug": "bill-reid"
+			},
+			{
+				"id":  0,
+				"name": "Frank O'Neill",
+				"slug": "frank-o'neill"
+			},
+			{
+				"id":  0,
+				"name": "Leona Lattimer",
+				"slug": "leona-lattimer"
+			},
+			{
+				"id":  0,
+				"name": "Lower Mainland",
+				"slug": "lower-mainland"
+			},
+			{
+				"id":  0,
+				"name": "Sculpture",
+				"slug": "sculpture"
+			},
+			{
+				"id":  0,
+				"name": "Vancouver Museum",
+				"slug": "vancouver-museum"
+			},
+			{
+				"id":  0,
+				"name": "Visual Arts",
+				"slug": "visual-arts"
+			},
+			{
+				"id":  0,
+				"name": "YVR Art Foundation",
+				"slug": "yvr-art-foundation"
+			}
+			
+		],
+		"main_category": {
+			"id": 59542,
+			"name": "Local News",
+			"slug": "local-news",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 59542,
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "VANCOUVER &#8212; A retail store near Granville Island known for selling handmade indigenous art has now opened a second location at Vancouver International Airport."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Lattimer Gallery�s new space is in one of the most prominent and highly coveted locations at the airport, right next to The Spirit of Haida Gwaii: The Jade Canoe, Bill Reid�s monumental bronze sculpture in the international terminal."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Lattimer has taken over the oval-shaped space formerly occupied by Gifts of the Raven. Unlike the previous retailer, Lattimer will be selling more hand-crafted pieces than manufactured ones, said owner Peter Lattimer."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�We have a 30-year brand that�s known and trusted that we�re bringing out to the airport,� he said."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�The idea of selling hand-carved silver and gold jewelry to travellers and employees at the airport is something that I have a lot of passion for.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Lattimer is the only retailer at YVR specializing in First Nations art and jewelry."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The gallery was one of the initial retailers of aboriginal art to join Authentic Indigenous, an initiative of Aboriginal Tourism B.C. to authenticate art made in this province and ensure aboriginal artists and paid and acknowledged for their work."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Lattimer said it�s important to the gallery to make sure as many of its manufactured items as possible are authentic."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�Although not all of our products fit in with their categories because some artists have not signed up for the program, the guidelines they use are pretty well the same guidelines we use,� Lattimer said."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�Every piece we have is artist attributed. Every piece we have will leave the gallery with an artist biography. Every piece we have, the artist is either paid directly or paid a royalty.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Lattimer Gallery was started by Peter�s grandmother Leona Lattimer. She and her husband David made strong personal and professional contacts with aboriginal communities throughout B.C. during a span of 30 years. (David was a bank employee who was transferred 15 times during that period)."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In 1976, she took over the gift shop in the Vancouver Museum and tapped into all the relationships she�d built. Ten years later during Expo 86, she opened her own gallery and named it after herself. Peter took it over in 2001 and renamed it Lattimer Gallery. It has been located at 1590 West 2nd for almost three decades."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Peter Lattimer plans to make the airport outlet more than just a retail store."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Next year, it will become a kind of ambassador for the Spirit of Haida Gwaii sculpture, with a separate display area focusing on the work as well as free brochures explaining its meaning."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Reid�s bronze sculpture was the airport�s first artwork in the YVR Art Foundation collection that now exceeds more than 200 pieces."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�The foundation is the reason why all this beautiful artwork is at the airport and why they win so many awards,� Lattimer said. �It all started with that sculpture. Being able to walk by it every day when I come to work feels like a real privilege.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The gallery also plans to hold regular events to reach out to the community, including Northwest Coast carving demonstrations and salmon and bannock days. As well, Lattimer plans to contact Musqueam First Nation about holding a Musqueam day or days to honour their traditions and regularly acknowledge that the airport is located on their unceded territory."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Lattimer said YVR liked the idea of community programming so much, it�s now included in the company�s lease agreement."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The idea of a First Nations gift shop at the airport dates back to an idea that originated with Frank O�Neill, former airport general manager and CEO of the airport authority, in the late �90s. Lattimer worked in that gift shop in 1998 and was his first exposure to selling First Nations art in a significant way. He was able to tell O�Neill how much that meant to him at event in November last year."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�I went up a year ago and shook his hand,� Lattimer said. �Working in that shop gave me an opportunity to get into the market and do something that I now absolutely love. I expressed my gratitude to him and thanked him for the opportunity.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Shortly after, the arts coordinator for YVR approached him to see if he�d be interested in submitting a proposal to operating a First Nations gift store. HMSHost, which operated Gifts of the Raven and other food and retail outlets in more than 100 airports around the world, was no longer interested in running the shop."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Lattimer opened the YVR outlet on Dec. 19, which he operates with his wife Sandra. He said his business takes pride in connecting artists to consumers."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�It really it is about representing artists and their cultural regions properly,� he said. �We�re trying to do at the airport what we do at Lattimer Gallery near Granville Island.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<A HREF=\"mailto:kevingriffin@postmedia.com\" TARGET=\"\"><I>kevingriffin@postmedia.com</I></A>"
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/bacon-burst330.jpg",
+			"title": "Bacon!",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1600,
+			"height": 1143
+		},
+		"video": {
+			"id": "0_o4svvipo",
+			"origin": "kaltura",
+			"title": "Video: Business takes off for YVR gallery",
+			"description": "Peter Lattimer is having such great success at the Vancouver airport, that he opened up a second Lattimer Gallery.",
+			"thumbnail": "",
+			"inline": false
+}
+
+	},
+	"metadata": {
+		
+    }
+}

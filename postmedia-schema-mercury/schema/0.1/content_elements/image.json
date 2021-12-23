@@ -1,0 +1,64 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/image.json",
+	"title": "An image.",
+	"description": "Holds attributes of a Postmedia image component from WordPress.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Automatically generated ObjectId.",
+			"type": "string"
+		},
+		"type": {
+			"description": "Image type.",
+			"type": "string",
+			"enum": [ "image" ]
+		},
+		"mime_type": {
+			"description": "Image mime type.",
+			"type": "string"
+		},
+		"created_date": {
+			"description": "Date and time that the image was added to the CMS.",
+			"type": "string",
+			"format": "date-time"
+		},
+		"url": {
+			"description": "Url for the image.",
+			"type": "string"
+		},
+		"title": {
+			"description": "Title of the image.",
+			"type": "string"
+		},
+		"caption": {
+			"description": "Caption for the image.",
+			"type": "string"
+		},
+		"description": {
+			"description": "Description for the image.",
+			"type": "string"
+		},
+		"credit": {
+			"description": "Credit for the image.",
+			"type": "string"
+		},
+		"distributor": {
+			"description": "Distributor for the image.",
+			"type": "string"
+		},
+		"width": {
+			"description": "Width of the image.",
+			"type": "integer"
+		},
+		"height": {
+			"description": "Height of the image.",
+			"type": "integer"
+		},
+		"shortcode": {
+			"description": "Shortcode used to embed this content.",
+			"type": "string"
+		}
+	},
+	"required": [ "url", "title" ]
+}

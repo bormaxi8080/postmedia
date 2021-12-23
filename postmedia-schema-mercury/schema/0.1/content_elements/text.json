@@ -1,0 +1,30 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/text.json",
+	"title": "Text content.",
+	"description": "Holds attributes of a piece of text.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Incremental ID.",
+			"type": "string"
+		},
+		"type": {
+			"description": "Type of content element.",
+			"type": "string",
+			"enum": [ "text" ],
+			"default": "text"
+		},
+		"content": {
+			"description": "Content of the text.",
+			"type": "string"
+		},
+		"paragraph": {
+			"description": "Indicator to wrap text as paragraph (default), or to open/close a paragraph.",
+			"type": "string",
+			"enum": [ "wrap", "open", "close", "none" ],
+			"default": "wrap"
+		}
+	},
+	"required": [ "type", "content" ]
+}

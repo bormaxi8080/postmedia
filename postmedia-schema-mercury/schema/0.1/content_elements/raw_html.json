@@ -1,0 +1,24 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/raw_html.json",
+	"title": "Raw HTML content.",
+	"description": "Holds attributes of a piece of raw HTML content.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Incremental ID.",
+			"type": "string"
+		},
+		"type": {
+			"description": "Type of content element.",
+			"type": "string",
+			"enum": [ "raw_html" ],
+			"default": "raw_html"
+		},
+		"content": {
+			"description": "Raw HTML content.",
+			"type": "string"
+		}
+	},
+	"required": [ "type", "content" ]
+}

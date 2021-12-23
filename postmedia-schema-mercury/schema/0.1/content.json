@@ -1,0 +1,222 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content.json",
+	"title": "A content object.",
+	"description": "Holds attributes of a Postmedia content object.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Automatically generated ID",
+			"type": "string"
+		},
+		"client_id": {
+			"description": "ID of the site the content was imported from, from Client collection.",
+			"type": "string"
+		},
+		"license_id": {
+			"description": "ID of the license the post uses, from License collection.",
+			"type": "string"
+		},
+		"origin_id": {
+			"description": "ID of the content in the original CMS.",
+			"type": "string"
+		},
+		"origin_cms": {
+			"description": "The CMS the content was imported from.",
+			"type": "string",
+			"default": "wordpress",
+			"enum": [ "wordpress", "southparc", "fatwire" ]
+		},
+		"origin_slug": {
+			"description": "Content slug in originating CMS.",
+			"type": "string"
+		},
+		"origin_url": {
+			"description": "The url of the content on the originating site.",
+			"type": "string"
+		},
+		"origin_url_path": {
+			"description": "The part of the url after the domain on the originating site.",
+			"type": "string"
+		},
+		"global_slug": {
+			"description": "Global slug used between WordPress and Saxotech.",
+			"type": "string"
+		},
+		"label": {
+			"description": "Label/strapline used for content.",
+			"type": "string"
+		},
+		"type": {
+			"description": "The content type.",
+			"type": "string",
+			"enum": [ "story", "gallery", "versus", "sunshinegirl", "pointer", "feature" ]
+		},
+		"advertorial": {
+			"description": "Flag to indicate if this is an advertorial post.",
+			"type": "boolean",
+			"default": false
+		},
+		"imported_on": {
+			"description": "Date and time the content was imported.",
+			"type": "string",
+			"format": "date-time"
+		},
+		"modified_on": {
+			"description": "Date and time the content was last modified.",
+			"type": "string",
+			"format": "date-time"
+		},
+		"published_on": {
+			"description": "Date and time the content was published.",
+			"type": "string",
+			"format": "date-time"
+		},
+		"derived_from": {
+			"description": "ID of the original content object",
+			"type": "string"
+		},
+		"status": {
+			"description": "Content object status (e.g. published/suppressed/deleted/draft/etc)",
+			"type": "string",
+			"enum": [ "published", "draft", "deleted" ]
+	    },
+		"credits": {
+			"description": "Credits for the content.",
+			"type": "object",
+			"properties": {
+				"$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/credits.json"
+			}
+		},
+		"titles": {
+			"description": "The different title options.",
+			"type": "object",
+			"properties": {
+				"main": {
+					"description": "Main content title.",
+					"type": "string"
+				},
+				"subtitle": {
+					"description": "Content subtitle.",
+					"type": "string"
+				},
+				"alternate": {
+					"description": "Alternate title.",
+					"type": "string"
+				},
+				"concise": {
+					"description": "Concise shorter title.",
+					"type": "string"
+				}
+			},
+			"required": [
+				"main"
+			]
+		},
+		"excerpt": {
+			"description": "Content excerpt.",
+			"type": "string"
+		},
+		"taxonomies": {
+			"description": "Taxonomies the content is tagged/categorized under.",
+			"type": "object",
+			"properties": {
+				"$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/taxonomies.json"
+			}
+		},
+		"content_elements": {
+			"description": "Breakdown of content elements that make up the content body.",
+			"type": "array",
+			"items": {
+				"$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/content_element.json"
+			}
+		},
+		"featured_media": {
+			"description": "Featured media elements associated with the content.",
+			"type": "object",
+			"properties": {
+				"image": {
+					"description": "Featured image set on the content.",
+					"type": "object",
+					"properties": {
+						"$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/image.json"
+					}
+				},
+				"video": {
+					"description": "Featured video set on the content.",
+					"type": "object",
+					"properties": {
+						"$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/video.json"
+					}
+				},
+				"s2n_video": {
+					"description": "Featured Send to News video set on the content.",
+					"type": "object",
+					"properties": {
+						"id": {
+							"type": "string"
+						}
+					}
+				},
+				"gallery": {
+					"description": "Featured gallery set on the content.",
+					"type": "object",
+					"properties": {
+						"id": {
+							"type": "string"
+						}
+					}
+				}
+			},
+			"required": [
+				"image"
+			]
+		},
+		"related_content": {
+			"description": "Related content.",
+			"type": "array",
+			"items": {
+				"$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/related_content.json"
+			}
+		},
+		"stock_symbols": {
+			"description": "Stock symbols associated with the story.",
+			"type": "array",
+			"items": {
+				"description": "Stock symbol",
+				"type": "string"
+			}
+		},
+		"metadata": {
+			"description": "Additional metadata associated with the content in the form of key/value pairs.",
+			"type": "object",
+			"additionalProperties": {
+				"description": "Metadata field key and value.",
+				"type": "string"
+			}
+		},
+		"version": {
+			"description": "The version of the schema used with the content object.",
+		    "type": "string",
+		    "enum": [ "0.1" ]
+		}
+	},
+	"required": [
+		"id",
+		"client_id",
+		"license_id",
+		"origin_id",
+		"origin_cms",
+		"type",
+		"imported_on",
+		"modified_on",
+		"published_on",
+		"status",
+		"titles",
+		"credits",
+		"taxonomies",
+		"content_elements",
+		"featured_media",
+		"version"
+	]
+}

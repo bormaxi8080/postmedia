@@ -1,0 +1,36 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/related_content.json",
+	"title": "Related content.",
+    "description": "A piece of related content.",
+	"oneOf": [
+		{
+			"type": "object",
+			"properties": {
+				"id": {
+					"description": "Content ID from WCM.",
+					"type": "string"
+				}
+			},
+			"required": [ "id" ]
+		},
+		{
+			"type": "object",
+			"properties": {
+				"id": {
+					"description": "Incremental ID.",
+					"type": "string"
+				},
+				"title": {
+					"description": "Link title",
+					"type": "string"
+				},
+				"url": {
+					"description": "Link url",
+					"type": "string"
+				}
+			},
+			"required": [ "title", "url" ]
+		}
+	]
+}

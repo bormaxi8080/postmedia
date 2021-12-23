@@ -1,0 +1,414 @@
+{
+	"origin_id": "314963",
+	"origin_cms": "wordpress",
+	"origin_url": "http://theprovince.com/sports/hockey/nhl/vancouver-canucks/canucks-are-road-worriers-with-just-one-win-away-from-rogers-arena",
+	"origin_url_path": "/sports/hockey/nhl/vancouver-canucks/canucks-are-road-worriers-with-just-one-win-away-from-rogers-arena",
+	"origin_slug": "canucks-are-road-worriers-with-just-one-win-away-from-rogers-arena",
+	"global_slug": "1123 kuzma canucks",
+	"type": "story",
+	"modified_on": "2016-11-22T18:33:43.511Z",
+	"published_on": "2016-11-22T18:03:14.421Z",
+	"status": "published",
+	"credits": {
+		"authors": [
+			{
+				"id": "25424570",
+				"name": "Ben Kuzma",
+				"slug": "benkuzma1",
+				"email": "bkuzma@postmedia.com"
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Ben Kuzma: Canucks are 'road worriers' with just one win away from Rogers Arena"
+	},
+	"excerpt": "Three winnable games on latest trip a litmus test for Vancouver's season.",
+	"taxonomies": {
+		"tags": [
+			{
+				"id": "500524543",
+				"name": "Vancouver Canucks",
+				"slug": "vancouver-canucks"
+			}
+		],
+		"main_taxonomies": [
+			{
+				"id": "32585",
+				"type": "category",
+				"name": "Vancouver Canucks",
+				"slug": "vancouver-canucks",
+				"path": "/Sports/Hockey/NHL/Vancouver Canucks/",
+			}
+		],
+		"categories": [
+			{
+				"id": "32585",
+				"name": "Vancouver Canucks",
+				"slug": "vancouver-canucks",
+				"path": "/Sports/Hockey/NHL/Vancouver Canucks/",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": "001",
+			"type": "text",
+			"content": "You always need a heightened sense of urgency on the road.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "002",
+			"type": "text",
+			"content": "The Vancouver Canucks couldn't have a had a higher one than when they registered their only victory away from Rogers Arena this sorry National Hockey League season.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "003",
+			"type": "text",
+			"content": "It was Nov. 8 at Madison Square Garden — U.S. election night. A terrorist threat level was high and notable New York City venues — including MSG — were obvious targets. Rumours of tangible threats that night still linger.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "004",
+			"type": "text",
+			"content": "So, amid the spectre of a possible bomb threat — and the Canucks wallowing in the muck of a nine-game losing streak that was one short of the franchise record — they beat the league's highest-scoring team 5-3.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "005",
+			"type": "text",
+			"content": "Loui Eriksson, Sven Baertschi and Alex Burrows scored their first goals of the season against the red-hot Rangers, and those who insist there's a Willie Watch allowed the coach to exhale. At least for one day.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "006",
+			"type": "text",
+			"content": "Fast forward and the Canucks open a three-game trip Wednesday in Glendale, Ariz., with a guarded sense of optimism because of a 1-6-1 road record.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "007",
+			"type": "text",
+			"content": "Matchups against the Arizona Coyotes, Dallas Stars and Colorado Avalanche are not only winnable, they present the prospect of a 7-10-2 club climbing back to the Western Conference playoff bar.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "008",
+			"type": "text",
+			"content": "And that's significant. Standings seldom change to a great degree following U.S. Thanksgiving Day, which is Thursday. Seventy-eight per cent of teams in the playoffs on that day maintain their positions.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "009",
+			"type": "text",
+			"content": "So chew on that.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "010",
+			"type": "text",
+			"content": "<hr />",
+			"paragraph": "none"
+		},
+		{
+			"id": "011",
+			"type": "text",
+			"content": "<h3 class=\"p1\">That was some meltdown on Saturday night This is the Pat-cast, powered by Eagle Ridge GM:</h3>",
+			"paragraph": "none"
+		},
+		{
+			"id": "012",
+			"type": "audio",
+			"mime_type": "audio/mpeg",
+			"url": "https://media.blubrry.com/theprovincesports/p/postmediaprovince2.files.wordpress.com/2016/11/nov-22-patcast.mp3?_=1"
+		},
+		{
+			"id": "013",
+			"type": "text",
+			"content": "<em>To subscribe to Province Sports Radio, <a href=\"http://feeds.feedburner.com/theprovincepodcasts/xzjU\">click here.</a> To subscribe to the Pat-cast, <a href=\"http://feeds.feedburner.com/ThePat-cast\">click here.</a></em>",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "014",
+			"type": "text",
+			"content": "<hr />",
+			"paragraph": "none"
+		},
+		{
+			"id": "015",
+			"type": "text",
+			"content": "If the Canucks expect to do any damage, they'll have to reverse a lot of trends.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "016",
+			"type": "text",
+			"content": "They have scored just 16 goals in eight road stops and allowed 22. They have been blanked twice and have scored the opening goal just once this season, one of those coming in Brooklyn, N.Y., on Dec. 7. And they have but six first-period goals, which is a league-low.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "017",
+			"type": "text",
+			"content": "The Canucks have maintained a semblance of competitiveness by being in 11 one-goal games, and a 7-2-2 record in those speaks to that. But playing from behind and playing on their heels when they do shock the world — a 3-0 lead after two periods against the Chicago Blackhawks evaporated in a 4-3 overtime loss — has left them looking at video, looking in the mirror and looking for answers.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "018",
+			"type": "text",
+			"content": "\"It seems like there are games where we play 50 minutes and &#8230; 10 where it shuts down,\" said Canucks centre Bo Horvat, who's tied for the team lead in goals with six and tied for the league lead with two shorthanded goals.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "019",
+			"type": "text",
+			"content": "\"We have to take the positives from the first 40 against Chicago and go from there.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "020",
+			"type": "text",
+			"content": "\"On the road, the first goal is going to be huge. We have to establish something. Teams come out strong in their own rink and we have to counter that.\"",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "021",
+			"type": "text",
+			"content": "One way would be to do something — anything — on the power play.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "022",
+			"type": "text",
+			"content": "In a special-teams world, the Canucks are spinning off into another universe with the 26th-ranked power play. They have been blanked in six of eight road games and are 3-for-23. And two man-advantage goals came in one outing on Oct. 22 in Los Angeles. You can also argue the Canucks aren't doing enough to draw penalties because their net presence is questionable at best.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "023",
+			"type": "text",
+			"content": "When the first unit is deployed — Henrik and Daniel Sedin with Brandon Sutter, Alex Edler and Troy Stecher — the best development with a predictable and plodding ploy has been back-door passes to Edler and Ben Hutton on the second unit. But they haven't converted the sweet feeds.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "024",
+			"type": "text",
+			"content": "It also says something about Eriksson not being on the first unit and collecting just one power-play goal — shovelling in a rebound against the Blackhawks on Saturday. Ten of his 30 goals last season with the Boston Bruins came on the power play.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "025",
+			"type": "text",
+			"content": "\"We need more power plays,\" said Henrik Sedin, understating the fact.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "026",
+			"type": "text",
+			"content": "\"A lot of games (nine in total) we've had one or two, and it's not easy. We have enough zone time to be better. And there are times when we just have to put pucks at the net. We've had pucks bouncing on the goalline and we're not getting to rebounds.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "027",
+			"type": "text",
+			"content": "\"It's not that we don't know where guys are or don't feel like it's the right setup. We just need to get it going.\"",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "028",
+			"type": "text",
+			"content": "The Canucks could have a different look up front against the Coyotes with Jannik Hansen (rib fracture) and Derek Dorsett (shoulder) on the sidelines.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "029",
+			"type": "text",
+			"content": "Winger Joseph LaBate, who had a goal and an assist in four preseason games and impressed with his size and skill, has been recalled from the Utica Comets, who have had six of their top 10 players injured.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "030",
+			"type": "text",
+			"content": "The 23-year-old Eagan, Minn., native has two goals and four assists in a dozen American Hockey League games. He was also suspended for three games after receiving a match penalty for an illegal check to head on Oct. 22 at Albany, N.Y.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "031",
+			"type": "text",
+			"content": "\"He plays an honest game and he's not a guy who's going to wow you every night and carry the puck,\" Comets coach Travis Green said of the Canucks' fourth-round 2011 draft choice.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "032",
+			"type": "text",
+			"content": "\"But he understands where to be and when he gets his feet going, he's a good forechecker and gets to the net.\"",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "033",
+			"type": "text",
+			"content": "<h3><strong>THREE STOPS, THREE WINNABLE GAMES</strong></h3>",
+			"paragraph": "none"
+		},
+		{
+			"id": "034",
+			"type": "text",
+			"content": "<em><strong>(all stats heading into Tuesday play)</strong></em>",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "315228",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2015-06-25T09:50:50.52Z",
+			"url": "http://wpmedia.theprovince.com/2016/11/radim-vrbata-connor-murphy-oliver-ekman-larsson1.jpeg?quality=60&strip=all",
+			"title": "Look who's scoring goal for the Arizona Coyotes? Former Canuck Radim Vrbata leads the team with six.",
+			"caption": "Look who's scoring goals for the Arizona Coyotes. Former Canuck Radim Vrbata leads the team with six.",
+			"description": "Look who's scoring goals for the Arizona Coyotes. Former Canuck Radim Vrbata leads the team with six.",
+			"credit": "Seth Wenig",
+			"distributor": "AP",
+			"width": 1000,
+			"height": 750
+		},
+		{
+			"id": "035",
+			"type": "text",
+			"content": "<h3><strong>WEDNESDAY: Arizona Coyotes (6-9-2) 7 p.m., SNP, TSN 1040</strong></h3>",
+			"paragraph": "none"
+		},
+		{
+			"id": "036",
+			"type": "text",
+			"content": "<strong>The stats:</strong> Goals (43, 24th), Goals Against (56, 24th), PP (13.2, 24th), PK (76.5, 28th)",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "037",
+			"type": "text",
+			"content": "<strong>The leaders:</strong> Goals (Vrbata, 6), Assists (Domi, 11), Points (Domi, 13), PPG (Ekman-Larsson, 2)",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "038",
+			"type": "text",
+			"content": "<strong>The skinny:</strong> C Dylan Strome, 19, has been returned to the Erie Otters of the OHL and available for Team Canada at the world junior tournament. He had one assist in seven NHL games, three short of having his entry level contract kick in. The Coyotes will build a 16,000-seat arena by 2019 in Tempe.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "315236",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2015-06-25T09:50:50.52Z",
+			"url": "http://wpmedia.theprovince.com/2016/11/julius-honka-e1479856753127.jpeg",
+			"title": "Dallas Stars defenceman Julius Honka made his NHL debut on Monday.",
+			"caption": "Dallas Stars defenceman Julius Honka made his NHL debut on Monday.",
+			"description": "Dallas Stars defenceman Julius Honka made his NHL debut on Monday.",
+			"credit": "Brandon Wade",
+			"distributor": "AP",
+			"width": 575,
+			"height": 742
+		},
+		{
+			"id": "039",
+			"type": "text",
+			"content": "<h3><strong>FRIDAY: Dallas Stars (8-7-5) 5:30 p.m., SNP, TSN 1040</strong></h3>",
+			"paragraph": "none"
+		},
+		{
+			"id": "040",
+			"type": "text",
+			"content": "<strong>The stats:</strong> Goals (53, 11th), Goals Against (66, 29th), PP (18.8, 13th), PK (78.3, 26th)",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "041",
+			"type": "text",
+			"content": "<strong>The leaders:</strong> Goals (Eaves, 9), Assists (Seguin, 15), Points (Seguin, 22), PPG (Eaves 5)",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "042",
+			"type": "text",
+			"content": "<strong>The skinny:</strong> Coach Lindy Ruff played a good blue-line hunch Monday. With Johnny Oduya out with a lower-body injury and John Klinberg scratched for missing a meeting, Julius Honka made his NHL debut and Esa Lindell and Jamie Oleksiak were solid in a 3-2 overtime victory over the Minnesota Wild.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "315238",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2015-06-25T09:50:50.52Z",
+			"url": "http://wpmedia.theprovince.com/2016/11/colorado-avalanche-v-dallas-stars-e1479856811709.jpeg",
+			"title": "A day after they take on John Klingberg, left, and the Dallas Stars, the Canucks head north to face Nathan MacKinnon and the Colorado Avalanche.",
+			"caption": "A day after they take on John Klingberg, left, and the Dallas Stars, the Canucks head north to face Nathan MacKinnon and the Colorado Avalanche.",
+			"description": "A day after they take on John Klingberg, left, and the Dallas Stars, the Canucks head north to face Nathan MacKinnon and the Colorado Avalanche.",
+			"credit": "Tom Pennington",
+			"distributor": "Getty Images",
+			"width": 1000,
+			"height": 622
+		},
+		{
+			"id": "043",
+			"type": "text",
+			"content": "<h3><strong>SATURDAY: Colorado Avalanche (9-9-0), 7 p.m., CBC/SNP, TSN 1040</strong></h3>",
+			"paragraph": "none"
+		},
+		{
+			"id": "044",
+			"type": "text",
+			"content": "<strong>The stats:</strong> Goals (39, 28th), Goals Against (49, 15th), PP (17.2, 8th), PK (79.2, 14th)",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "045",
+			"type": "text",
+			"content": "<strong>The leaders:</strong> Goals (Duchene, 9), Assists (MacKinnon, Johnson 9), Points (MacKinnon, 13), PPG (Landeskog, Bourque, Colborne 2).",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "046",
+			"type": "text",
+			"content": "<strong>The skinny:</strong> Joe Colborne had a hat-trick on opening night and hasn’t scored since. After a one-game hiatus after a bad outing in Dallas on Thursday, defenceman Nikita Zakorov is back in the lineup and Eric Gelinas scratched. Matt Duchene has returned after missing four games with a concussion.",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "047",
+			"type": "text",
+			"content": "<a href=\"mailto:bkuzma@postmedia.com\">bkuzma@postmedia.com</a>",
+			"paragraph": "wrap"
+		},
+		{
+			"id": "048",
+			"type": "text",
+			"content": "<a href=\"http://twitter.com/benkuzma\">twitter.com/benkuzma</a>",
+			"paragraph": "wrap"
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": "315221",
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-11-22T05:08:50.152Z",
+			"url": "http://wpmedia.theprovince.com/2016/11/vancouver-canucks-v-new-york-rangers2.jpeg",
+			"title": "Sven Baertschi scored his lone goal of the season for the Canucks against the New York Rangers at Madison Square Garden on Nov. 8, when Vancouver posted its only road win, a 5-3 decision over the Rangers.",
+			"caption": "Sven Baertschi scored his lone goal of the season for the Canucks against the New York Rangers at Madison Square Garden on Nov. 8, when Vancouver posted its only road win, a 5-3 decision over the Rangers.",
+			"description": "Sven Baertschi scored his lone goal of the season for the Canucks against the New York Rangers at Madison Square Garden on Nov. 8, when Vancouver posted its only road win, a 5-3 decision over the Rangers.",
+			"credit": "Bruce Bennett",
+			"distributor": "Getty Images",
+			"width": 1000,
+			"height": 750
+		}
+	},
+	"metadata": {
+		"pni_category" : "Sports",
+		"pni_headline'Road": "Road Worriers: Canucks have just one away win",
+		"pni_deck": "Weekend three-game trip could be the litmus test for how the season will end",
+		"pni_saxotech_story_id": "34084876",
+		"pni_last_submission_date": "1479856141",
+		"pni_publication_id": "464834",
+		"pni_access_level": "1",
+		"pni_byline": "Ben Kuzma",
+		"mt_seo_title": "Vancouver Canucks lone away win makes them 'road worriers'",
+		"mt_seo_google_news_meta": "Vancouver Canucks, NHL, road trip, Loui Eriksson, Sven Baertschi, Alex Burrows, goals, power play, Henrik, Daniel, Sedin"
+    }
+}

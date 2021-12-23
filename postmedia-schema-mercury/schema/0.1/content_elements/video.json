@@ -1,0 +1,43 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/video.json",
+	"title": "A video.",
+	"description": "Holds attributes of a Postmedia video component.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Video id/ref from video cms",
+			"type": "string"
+		},
+		"type": {
+			"description": "Video type.",
+			"type": "string",
+			"enum": [ "video" ]
+		},
+		"origin": {
+			"description": "Origin video cms (Kaltura, Ooyala, Brightcove,...)",
+			"type": "string"
+		},
+		"title": {
+			"description": "Video title",
+			"type": "string"
+		},
+		"description": {
+			"description": "Video description",
+			"type": "string"
+		},
+		"thumbnail": {
+			"description": "Url for video thumbnail image",
+			"type": "string"
+		},
+		"inline": {
+			"description": "Play video inline?",
+			"type": "boolean"
+		},
+		"shortcode": {
+			"description": "Shortcode used to embed this content.",
+			"type": "string"
+		}
+	},
+	"required": [ "id", "origin" ]
+}

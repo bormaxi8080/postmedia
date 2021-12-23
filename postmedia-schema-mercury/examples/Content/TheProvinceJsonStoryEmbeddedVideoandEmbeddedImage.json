@@ -1,0 +1,308 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 211046,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/news/local-news/former-city-planner-wants-trump-named-removed-from-vancouver-tower",
+	"origin_url_path": "/news/local-news/former-city-planner-wants-trump-named-removed-from-vancouver-tower",
+	"content_type": "story",
+	"imported_on": "2015-12-08T18:25:43.511Z",
+	"modified_on": "2015-12-08T18:25:43.511Z",
+	"published_on": "2015-12-08T18:25:43.511Z",
+	"global_slug": "",
+	"credits": {
+		"authors": [
+			{
+				"id": "1169",
+				"name": "Rafe Arnott",
+				"slug": "rarnott",
+				"email": "rarnott@postmedia.com"
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Former city planner wants Trump name removed from Vancouver tower",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "In reaction to billionaire developer and U.S. presidential candidate Donald Trump&#8217;s�call for �total and complete shutdown of Muslims entering the United States,&#8221; former�Vancouver city planner�Brent Toderian says the Trump name should not be part of our city&#8217;s�skyline. On his Twitter account Monday,�Toderian who now runs a private firm, suggested that�the�developers that are building Trump International",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Asia",
+				"slug": "asia"
+			},
+			{
+				"id":  0,
+				"name": "Brent Toderein",
+				"slug": "brent-toderein"
+			},
+			{
+				"id":  0,
+				"name": "Culture and Lifestyle",
+				"slug": "culture-and-lifestyle"
+			},
+			{
+				"id":  0,
+				"name": "Donald Trump",
+				"slug": "donald-trump"
+			},
+			{
+				"id":  0,
+				"name": "Franklin D. Roosevelt",
+				"slug": "franklin-d.-roosevelt"
+			},
+			{
+				"id":  0,
+				"name": "History",
+				"slug": "history"
+			},
+			{
+				"id":  0,
+				"name": "Holborn Holdings",
+				"slug": "holborn-holdings"
+			},
+			{
+				"id":  0,
+				"name": "Internet",
+				"slug": "internet"
+			},
+			{
+				"id":  0,
+				"name": "Kim Tiah",
+				"slug": "kim-tiah"
+			},
+			{
+				"id":  0,
+				"name": "Now Blog",
+				"slug": "now-blog"
+			},
+			{
+				"id": 0 ,
+				"name": "Science and Technology",
+				"slug": "science-and-technology"
+			},
+			{
+				"id":  0,
+				"name": "Social Software and Tagging",
+				"slug": "social-software-and-tagging"
+			},
+			{
+				"id":  0,
+				"name": "Technology",
+				"slug": "technology"
+			},
+			{
+				"id":  0,
+				"name": "The Ritz-Carlton Hotel Co. LLC",
+				"slug": "the-ritz-carlton-hotel-co.-llc"
+			},
+			{
+				"id":  0,
+				"name": "The Trump Organization LLC",
+				"slug": "the-trump-organization-llc"
+			},
+			{
+				"id":  0,
+				"name": "United States",
+				"slug": "united-states"
+			},
+			{
+				"id":  0,
+				"name": "Vancouver Sun",
+				"slug": "vancouver-sun"
+			},
+			{
+				"id":  0,
+				"name": "World History",
+				"slug": "world-history"
+			},
+			{
+				"id":  0,
+				"name": "World War II",
+				"slug": "world-war-ii"
+			}
+			
+		],
+		"main_category": {
+			"id": 59542,
+			"name": "Local News",
+			"slug": "local-news",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 59542,
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In reaction to billionaire developer and U.S. presidential candidate Donald Trump&#8217;s�call for �total and complete shutdown of Muslims entering the United States,&#8221; former�Vancouver city planner�Brent Toderian says the Trump name should not be part of our city&#8217;s�skyline."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<img class=\"aligncenter wp-image-196451\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/toderein.jpg\" alt=\"toderein\" width=\"460\" height=\"151\" />"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "On his Twitter account Monday,�Toderian who now runs a <a href=\"http://www.toderianurbanworks.com/brent/\" target=\"_blank\">private firm</a>, suggested that�the�developers that are building <a href=\"http://TRUMP INTERNATIONAL HOTEL &amp; TOWER� VANCOUVER\" target=\"_blank\">Trump International Hotel and Tower</a>�should remove the Republican politician&#8217;s name from the $360-million project."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "This isn&#8217;t the first time Toderian has been offended by something Trump said. He was equally horrified by the candidate&#8217;s <a href=\"http://www.businessinsider.com/donald-trumps-epic-statement-on-mexico-2015-7\" target=\"_blank\">xenophobic statements about Mexicans</a>."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "&#8220;As things kept getting worse and worse, more and more horrible, I felt the need to say something again. I&#8217;m not the only one,&#8221; he said. �&#8220;The sheer horrific comments this week have probably just been the breaking point for some people. As I said to someone a few minutes ago who said &#8216;Trump&#8217;s comments have stopped being funny,&#8217; my�response was they were never funny. They were always deeply concerning and they have gotten worse and worse. The idea that his brand, his message, his belief system is tied here to Vancouver, a city known for its inclusiveness and diversity &#8230; you just can&#8217;t help but deeply concerned by that conflict.&#8221;"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "[soundcloud url=&#8221;https://api.soundcloud.com/tracks/236680690&#8243; params=&#8221;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&#8221; width=&#8221;100%&#8221; height=&#8221;450&#8243; iframe=&#8221;true&#8221; /]"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The 63-storey Arthur Erickson-designed twisting tower on West Georgia is being built�by Vancouver developer Holborn Holdings. �The tower was cancelled�in 2009, when it was still slated to carry the Ritz-Carlton name,�because &#8220;<span id=\"hiquote4\">worldwide economic turmoil</span>&#8221; affected the sale of units in the project, a letter from Holborn&#8217;s lawyers stated at the time."
+		},
+		{
+			"id": "1_cbarezuv",
+			"type": "video",
+			"origin": "kaltura",
+			"title": "",
+			"description": "",
+			"thumbnail": "",
+			"inline": true,
+			"shortcode": "[kaltura-widget uiconfid='23273481' entryid='1_cbarezuv' /]"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The project was resuscitated in the spring of 2013 after Holborn partnered with The Trump Organization, who not only received name rights to the building but�also�assumed control�of the interior design and management of the tower. The tower�is scheduled to open in 2016."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Vancouver city councillor Kerry Jang is pleading with Holborn to pull out of its deal with Trump."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Jang says a tower with the Republican politician&#8217;s name would only serve as a &#8220;beacon of racism&#8221; in Vancouver"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "&#8220;I have been fighting racism my entire life. As someone who is Chinese, �growing up I faced all kinds of racism &#8230; and when I heard his comments last night, I just couldn&#8217;t believe my ears,&#8221; the Vision councillor�said. &#8220;Vancouver has been built on a foundation of dealing with racism, dealing with these issues and getting along with each other. That&#8217;s why people keep coming here, that&#8217;s why our economy is so strong because people feel safe. People are�accepting here and we have no tolerance for this type of stuff.&#8221;"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Holborn Holdings donated $75,000 to the Vision Vancouver campaign."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "[soundcloud url=&#8221;https://api.soundcloud.com/tracks/236677053&#8243; params=&#8221;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true&#8221; width=&#8221;100%&#8221; height=&#8221;450&#8243; iframe=&#8221;true&#8221; /]"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "On Tuesday, Trump <a href=\"http://www.vancouversun.com/news/world/trump+defends+muslim+plan+comparing+internment+japanese/11573825/story.html\" target=\"_blank\">defended�his call to block Muslims</a> from entering the U.S. by comparing it with U.S.�President Franklin Roosevelt�s decision to inter Japanese Americans during World War II."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�This is a president who was highly respected by all,� Trump said Tuesday. �If you look at what he was doing, it was far worse.�"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Toderian&#8217;s call to remove Trump&#8217;s name from the Vancouver tower is gaining support on social media:"
+		},
+		{
+			"id": "",
+			"type": "oembed",
+			"providerUrl": "https://api.twitter.com/1/statuses/oembed.json",
+			"objectUrl": "https://twitter.com/Mivasair/status/674275196791058432",
+			"channels": ["desktop", "smartphone"]
+		},
+		{
+			"id": 0,
+			"type": "oembed",
+			"providerUrl": "https://api.twitter.com/1/statuses/oembed.json",
+			"objectUrl": "https://twitter.com/gdmplanning/status/674094465229787136",
+			"channels": ["desktop", "smartphone"]
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Vancouver Sun sought comment from Holborn CEO�Joo Kim Tiah on Tuesday morning, but a company spokesman said Tiah�is currently flying to Asia and was unavailable to respond to�media requests. �The Sun was told the company would release a statement later today."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In July, Sun columnist Pete McMartin wrote about the challenges facing Holborn in wake of Trump&#8217;s <a href=\"http://www.vancouversun.com/life/Pete+McMartin+Trump+this+When+branding+blows+real+good/11195736/story.html\" target=\"_blank\">comments about Mexico</a>."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "McMartin wrote:�<em>&#8220;Was the Trump name now a selling point or a liability to such a property? Did anyone at Holborn think the kind of comments Trump made would affect condo sales and hotel reservations? Will Holborn make any move to dissociate itself from the Trump comment? Would anyone at Holborn itself care to comment?</em>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<em>I phoned to ask. I was told someone would get back to me within the hour. A couple of hours later, I received this email from Esther Sim, Holborn�s legal executive:</em>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<em>&#8216;With reference to your call this morning, we regret that we are not in the position to comment on Mr. Trump�s U.S. political statements.'&#8221;</em>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<img class=\"aligncenter wp-image-196460\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/02x218_2417_9.jpg\" alt=\"02X218_2417_9\" width=\"460\" height=\"691\" />"
+		}
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/bacon-burst461.jpg",
+			"title": "Bacon!",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1600,
+			"height": 1143
+		}
+
+	},
+	"metadata": {
+		
+    }
+}

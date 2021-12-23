@@ -1,0 +1,62 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/credits.json",
+	"title": "Content credits.",
+	"description": "Holds attributes of the credits component.",
+	"type": "object",
+	"properties": {
+		"authors": {
+			"description": "Authors associated with this content.",
+			"type": "array",
+			"uniqueItems": true,
+			"items": {
+				"type": "object",
+				"description": "An explanation about the purpose of this instance.",
+				"properties": {
+					"id": {
+						"description": "Author user id if a global one exists.",
+						"type": "string"
+					},
+					"name": {
+						"description": "Author's name.",
+						"type": "string",
+					},
+					"org": {
+				    	"description": "The name of the organization the author belongs to.",
+				    	"type": "string"
+				    },
+					"slug": {
+						"description": "Author's slug.",
+						"type": "string",
+					},
+					"email": {
+						"description": "Author's email address.",
+						"type": "string",
+					},
+					"bio": {
+				    	"description": "A description/short bio of the author.",
+				    	"type": "string"
+				    },
+					"url": {
+				    	"description": "A url to some deeper set of information about the author.",
+				    	"type": "string"
+				    },
+					"social_links": {
+				    	"$ref": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/traits/social.json"
+				    }
+				},
+				"required": [
+					"name",
+					"slug",
+				]
+			}
+		},
+		"distributor": {
+			"description": "Content distributor.",
+			"type": "string",
+		}
+	},
+	"required": [
+		"authors"
+	]
+}

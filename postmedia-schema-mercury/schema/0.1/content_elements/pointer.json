@@ -1,0 +1,23 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/pointer.json",
+	"title": "A pointer.",
+	"description": "Holds attributes of a pointer component.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Incremental ID.",
+			"type": "string"
+		},
+		"type": {
+			"description": "Pointer type.",
+			"type": "string",
+			"enum": [ "pointer" ]
+		},
+		"url": {
+			"description": "Pointer url",
+			"type": "string"
+		}
+	},
+	"required": [ "url" ]
+}

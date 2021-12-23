@@ -1,0 +1,39 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/content_elements/audio.json",
+	"title": "A video.",
+	"description": "Holds attributes of a Postmedia audio component.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Incremental ID.",
+			"type": "string"
+		},
+		"type": {
+			"description": "Audio type.",
+			"type": "string",
+			"enum": [ "audio" ]
+		},
+		"mime_type": {
+			"description": "Audo mime type.",
+			"type": "string"
+		},
+		"url": {
+			"description": "Url for the image.",
+			"type": "string"
+		},
+		"title": {
+			"description": "Audio title",
+			"type": "string"
+		},
+		"description": {
+			"description": "Audio description",
+			"type": "string"
+		},
+		"shortcode": {
+			"description": "Shortcode used to embed this content.",
+			"type": "string"
+		}
+	},
+	"required": [ "type", "url" ]
+}

@@ -1,0 +1,165 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 33598,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/news/local-news/embedded-podcast-test",
+	"origin_url_path": "/news/local-news/embedded-podcast-test",
+	"content_type": "story",
+	"imported_on": "2016-03-24T18:25:43.511Z",
+	"modified_on": "2016-03-24T18:25:43.511Z",
+	"published_on": "2016-03-25T18:25:43.511Z",
+	"global_slug": "0325 test",
+	"credits": {
+		"authors": [
+			{
+				"id": "815",
+				"name": "Kirill Fondler",
+				"slug": "kfondler",
+				"email": "kfondler@postmedia.com"
+			}
+			
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Regular Post Sponsorship - Sponsored by: Embedded Podcast test",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "<p>OTTAWA � The Supreme Court of Canada says an Alberta woman who tossed two of her newborn children into the garbage is not guilty of second-degree murder. By a 7-0 margin, the high court has agreed with the lawyers for Meredith Borowiec of Calgary, who argued that she was guilty of the lesser offence of [&hellip;]</p>",
+	"origin_slug": "post-title",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Charity",
+				"slug": "charity"
+			},
+			{
+				"id":  0,
+				"name": "Doctors Without Borders",
+				"slug": "doctors-without-borders"
+			},
+			{
+				"id":  0,
+				"name": "Ginger Snaps",
+				"slug": "ginger-snaps"
+			},
+			{
+				"id":  0,
+				"name": "Hear Candy",
+				"slug": "hear-candy"
+			},
+			{
+				"id":  0,
+				"name": "Politics",
+				"slug": "politics"
+			},
+			{
+				"id":  0,
+				"name": "Legal Issues",
+				"slug": "legal-issues"
+			},
+			{
+				"id":  0,
+				"name": "Law Gov't & Politics",
+				"slug": "law-govt-and-politics"
+			}
+			
+		],
+		"main_category": {
+			"id": 59542,
+			"name": "Local News",
+			"slug": "local-news",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 59542,
+				"name": "Local News",
+				"slug": "local-news",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "OTTAWA � The Supreme Court of Canada says an Alberta woman who tossed two of her newborn children into the garbage is not guilty of second-degree murder."
+		},
+		{
+			"id": 0,
+			"type": "blockquote",
+			"content": "By a 7-0 margin, the high court has agreed with the lawyers for Meredith Borowiec of Calgary, who argued that she was guilty of the lesser offence of infanticide."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Supreme Court was ruling for the first time on the infanticide provision of the Criminal Code, which turns on the definition of what constitutes a disturbed mind for a new mother."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "[soundcloud url=&#8221;https://soundcloud.com/travisscott-2/wonderful-ftthe-weeknd&#8221;]"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Borowiec was originally charged with two counts of second-degree murder for the deaths of two of her children in 2008 and 2009.."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In 2014, she was convicted of infanticide and sentenced to an additional 18 months in jail on top of the 18 months she had already spent in custody.<br />"
+		},
+		{
+			"id": "0_gcz19vu0",
+			"type": "video",
+			"origin": "kaltura",
+			"title": "",
+			"description": "",
+			"thumbnail": "http://www.domain.com/video/thumbnail.jpg",
+			"inline": true,
+			"shortcode": "[kaltura-widget uiconfid='23273481' entryid='0_gcz19vu0' /]"
+		}
+		
+
+		
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-03-21T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2016/03/vice-magazine-founder-suroosh-alvi3.jpeg",
+			"title": "Vice magazine founder Suroosh Alvi",
+			"caption": "NEW YORK, NY: JANUARY 22, 2016 -- Vice magazine founder Suroosh Alvi in his company's in Brooklyn, New York offices Friday, January 22, 2016. (Katja Heinemann / MONTREAL GAZETTE)",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1000,
+			"height": 750
+		},
+		"video":{
+			"id": "0_gcz19vu0",
+			"origin": "kaltura",
+			"title": "video title",
+			"description": "sdasd sadasd sadad",
+			"thumbnail": "http://www.domain.com/video/thumbnail.jpg",
+			"inline": true
+}
+	},
+	"metadata": {
+		
+    }
+}

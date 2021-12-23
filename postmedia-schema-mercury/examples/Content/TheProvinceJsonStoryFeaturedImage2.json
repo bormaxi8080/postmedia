@@ -1,0 +1,255 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 206419,
+	"origin_cms": "wordpress",
+	"origin_url": "http://theprovince.wpdstg1.canada.com/entertainment/whats-on-contact-winter-music-festival-the-nutcracker-and-more",
+	"origin_url_path": "/entertainment/whats-on-contact-winter-music-festival-the-nutcracker-and-more",
+	"content_type": "story",
+	"imported_on": "2015-12-23T18:25:43.511Z",
+	"modified_on": "2015-12-23T18:25:43.511Z",
+	"published_on": "2015-12-23T18:25:43.511Z",
+	"global_slug": "",
+	"credits": {
+		"authors": [
+			{
+				"id": "1197",
+				"name": "Julia Piper",
+				"slug": "jpiper",
+				"email": "jpiper@postmedia.com"
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "What�s On: Contact Winter Music Festival, The Nutcracker, and more",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "Super-hugger Dana Sebal takes great pride in the fact it was her idea to push my conservative comfort zone and dress up for the Movember Moustache Miler at Stanley Park. Sebal, part of the fabulous female braintrust � which includes Sophia Betegh � that helped to raise more than $40,000 for men�s mental and physical",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "Alberta Ballet",
+				"slug": "alberta-ballet"
+			},
+			{
+				"id":  0,
+				"name": "Baz Luhrmann",
+				"slug": "baz-luhrmann"
+			},
+			{
+				"id":  0,
+				"name": "Justin Trudeau",
+				"slug": "justin-trudeau"
+			},
+			{
+				"id":  0,
+				"name": "Pyotr Ilyich Tchaikovsky",
+				"slug": "pyotr-ilyich-tchaikovsky"
+			},
+			{
+				"id":  0,
+				"name": "Santa Claus",
+				"slug": "santa-claus"
+			},
+			{
+				"id":  0,
+				"name": "Steve Winwood",
+				"slug": "steve-winwood"
+			},
+			{
+				"id":  0,
+				"name": "Vancouver Symphony Orchestra",
+				"slug": "vancouver-symphony-orchestra"
+			},
+			{
+				"id":  0,
+				"name": "vancouver theatresports league",
+				"slug": "vancouver-theatresports-league"
+			}
+			
+		],
+		"main_category": {
+			"id": 59792,
+			"name": "Entertainment",
+			"slug": "entertainment",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 59792,
+				"name": "Entertainment",
+				"slug": "entertainment",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<B>Steve Angello</B>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The former member of the highly-lucrative electronica act Swedish House Mafia recently released six tracks from his anticipated debut solo album. Angello told Billboard he aimed to create a �piece of art,� and Wild Youth is certainly epic and emotionally charged. Most songs feature a singer, a story (innocence vs. experience is the overarching theme) and cinematic, soaring melodies. Some critics are calling the dramatic project one of the most important EDM releases of the year. Meanwhile, club kids will be satisfied with the driving banger Kamikaze."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Dec. 26-27, 5 p.m. | BC Place (as part of Contact Winter Music Festival)"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Tickets: $109-$250, <A HREF=\"http://contact-festival.com\" TARGET=\"_blank\">contact-festival.com</A>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<B>2015 Year In Review</B>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Republican windbag Trump is easy. But if there�s a way to send up Prime Minister Justin Trudeau, trust Vancouver TheatreSports League to nail it. Anyone with a short memory or a thirst for all manner of celebrity gossip will want to check out the improv team�s year in review. From newsmakers to baby makers, and newlyweds to newly incarcerated, this annual show runs through the year�s headlines, taking suggestions from the audience along the way."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Dec. 26-31 | The Improv Centre"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Tickets: $10-22, <A HREF=\"http://vtsl.com\" TARGET=\"_blank\">vtsl.com</A>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<B>The Nutcracker</B>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Alberta Ballet�s grand production of the holiday classic features exquisite dancing, opulent sets and costumes (by Emmy Award-winning designer Zack Brown) and Tchaikovsky�s score performed live by the Vancouver Symphony Orchestra. The ballet incorporates some 80 local student dancers, playing mice, soldiers, and children � and, no, you are not seeing double: Calgary�s identical Gibson twins dance the role of the Sugar Plum Fairy."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Dec 29 to 31 | Queen Elizabeth Theatre"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Tickets: $35 to 110, at <A HREF=\"http://ticketmaster.ca\" TARGET=\"_blank\">ticketmaster.ca</A>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<B>Nero</B>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The British electronic trio�s debut album Welcome Reality was massive, both in its big, hook-laden sound and its reception. The album and single Promises reached No. 1 on the UK charts, and the group worked with Baz Luhrmann on the soundtrack to his version of The Great Gatsby. Back in 2011, incorporating grandiose pop elements into dubstep was a big deal. Now EDM artists have moved on. Experimental noise and psychedelia are making waves. But Nero�s second album Between II Worlds delivers more stadium-sized electroclash. Not a bad thing; but not thrilling like first time."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Dec. 29, 9 p.m. | Commodore Ballroom"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Tickets: $42.50 to $46.50, <A HREF=\"http://ticketmaster.ca\" TARGET=\"_blank\">ticketmaster.ca</A>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<B>Eric Prydz</B>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In 2004, clubs around the world played the Swedish producer�s chart-topping hit Call on Me, which sampled Steve Winwood�s Valerie. But a year later Prydz stopped playing it altogether, favouring his newer tracks. Now the musician has the best of both worlds: recognition in the underground scene as Cirez D, and an open invitation to entertain main room masses using his Eric Prydz moniker. In July, Prydz was the first DJ with a set featured on Beats 1, the radio station on Apple Music. EPIC, or Eric Prydz In Concert has gained a stellar reputation for mesmerizing visuals and 3-D technology."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Jan. 2, 9 p.m. | Commodore Ballroom"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Tickets: $48.50 to $55.50, at <A HREF=\"http://ticketmaster.ca\" TARGET=\"_blank\">ticketmaster.ca</A>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<B>Karaoke Christmas Lights Trolley Tour</B>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Deck the bus with boughs of holly, rig up a karaoke machine, and you�re good for a travelling carolling shindig that visits Stanley Park�s Bright Nights, VanDusen Garden�s Festival of Lights and beautifully lit neighbourhoods."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Until Dec. 30 | Tours leaves from Canada Place at 6:30 p.m."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Tickets: $25-$40, <A HREF=\"http://vancouvertrolley.com\" TARGET=\"_blank\">vancouvertrolley.com</A>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<B>VanDusen Festival of Lights</B>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "You can always count on the lavish light spectacle at VanDusen Garden to trigger holiday season excitement. This year, the wonderland doubles in size for extra pleasure. Also new is an interactive light feature that allows kids (OK, adults, too) to play with light patterns in the landscape by waving hands through an invisible beam. Returning highlights include lights synchronized to music on Livingstone Lake, choirs singing carols, elves pulling pranks and leading spontaneous singalongs, and Santa Claus visits."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "To Dec. 31, opens at 4:30 p.m. | VanDusen Botanical Garden"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Tickets: $11 to 18.50, <A HREF=\"http://vandusengarden.org\" TARGET=\"_blank\">vandusengarden.org</A>"
+		}
+			
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/goldenGateBridge29.jpg",
+			"title": "Golden Gate Bridge",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1024,
+			"height": 686
+		}
+	},
+	"metadata": {
+		
+    }
+}

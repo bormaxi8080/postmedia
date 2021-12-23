@@ -1,0 +1,175 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 205905,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/sports/wendy-long-covered-biggest-names-and-shone-light-on-brightest-newcomers",
+	"origin_url_path": "/sports/wendy-long-covered-biggest-names-and-shone-light-on-brightest-newcomer",
+	"content_type": "story",
+	"imported_on": "2015-12-11T18:25:43.511Z",
+	"modified_on": "2015-12-11T18:25:43.511Z",
+	"published_on": "2015-12-11T18:25:43.511Z",
+	"global_slug": "1211 wendy",
+	"credits": {
+		"authors": [
+			{
+				"id": "1175",
+				"name": "",
+				"slug": "",
+				"email": ""
+			}
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Wendy Long covered biggest names and shone light on brightest newcomers",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "In a profession dominated by men, Wendy Long made a point of providing a voice for the female athlete. �I wasn�t on a crusade, I just brought a very different perspective, I think, to the whole thing,� said Long, who was announced Thursday as the first female inductee into the media category of the B.C. Sports Hall of Fame.",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id":  0,
+				"name": "daniel igali",
+				"slug": "daniel-igali"
+			},
+			{
+				"id":  0,
+				"name": "John Landy",
+				"slug": "john-landy"
+			},
+			{
+				"id":  0,
+				"name": "Olympic Games",
+				"slug": "olympic-games"
+			},
+			{
+				"id":  0,
+				"name": "Rob Boyd",
+				"slug": "rob-boyd"
+			},
+			{
+				"id":  0,
+				"name": "Roger Bannister",
+				"slug": "roger-bannister"
+			},
+			{
+				"id":  0,
+				"name": "Sports",
+				"slug": "sports"
+			},
+			{
+				"id":  0,
+				"name": "Track and Field",
+				"slug": "track-and-field"
+			},
+			{
+				"id":  0,
+				"name": "Wendy Long",
+				"slug": "wendy-long"
+			}
+			
+		],
+		"main_category": {
+			"id": 31,
+			"name": "Sports",
+			"slug": "sports",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 31,
+				"name": "Sports",
+				"slug": "sports",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "In a profession dominated by men, Wendy Long made a point of providing a voice for the female athlete."
+		},
+		
+		{
+			"id": 0,
+			"type": "text",
+			"content": "I wasn�t on a crusade, I just brought a very different perspective, I think, to the whole thing,� said Long, who was announced Thursday as the first female inductee into the media category of the B.C. Sports Hall of Fame."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "A reporter at The Vancouver Sun in the 1980s and �90s, Long focused on amateur and Olympic sports, often writing on women and sports that rarely got space in sport sections."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "It just came out of natural interest, Long said. Just as the male reporters seemed to gravitate towards the male athletes, I was interested in the female athletes and their stories because I figured half the population would be interested, if not the whole population."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "She covered six Olympic Games from 1988 to 2000, the 1991 world track and field championships, the 1989 FIS world alpine championships and the 1994 Commonwealth Games."
+		},
+		
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Long also authored the 1995 book Celebrating Excellence: Canadian Women Athletes."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "One of the best things about doing the job is when you get to meet the athletes when they�re young and you get to see their development. And then you�re there for their big day, like when Rob Boyd won the downhill at Whistler (in 1989). Or, when (wrestler) Daniel Igali won the gold in Sydney (at the 2000 Olympics)."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "One of her favourite moments was meeting runners Roger Bannister and John Landy of Miracle Mile fame from the 1954 Empire Games in Vancouver."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "When I was a kid, we used to do what we called the Miracle Mile, which was running around the block and time one another. To meet those two guys was a dream."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<a href=\"mailto:gkingston@vancouversun.com\">gkingston@vancouversun.com</a>"
+		}
+		
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/last-game1125.jpeg",
+			"title": "Sports",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1000,
+			"height": 750
+		},
+		"video": {
+			"id": "0_k3nwrb5r",
+			"origin": "kaltura",
+			"title": "Video: BC Sports Hall of Fame 2016 Induction",
+			"description": "Gary Kingston reveals the 2016 B.C. Sports Hall of Fame inductees, as well as interviews Vancouver Sun reporter and hall of fame inductee Wendy Long.",
+			"thumbnail": "",
+			"inline": false
+}
+	},
+	"metadata": {
+		
+    }
+}

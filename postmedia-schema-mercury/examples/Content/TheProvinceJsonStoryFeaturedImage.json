@@ -1,0 +1,449 @@
+{
+	"id": "",
+	"source_id": 0,
+	"license_id": 0,
+	"origin_id": 211063,
+	"origin_cms": "wordpress",
+	"origin_url": " http://theprovince.wpdstg1.canada.com/sports/mooseter-of-ceremonies-for-awards-show-that-bearly-scrapes-surface-of-b-c-s-deserving-soles",
+	"origin_url_path": "/sports/mooseter-of-ceremonies-for-awards-show-that-bearly-scrapes-surface-of-b-c-s-deserving-soles",
+	"content_type": "story",
+	"imported_on": "2015-12-09T18:25:43.511Z",
+	"modified_on": "2015-12-09T18:25:43.511Z",
+	"published_on": "2015-12-09T18:25:43.511Z",
+	"global_slug": "",
+	"credits": {
+		"authors": [
+			{
+				"id": "1175",
+				"name": "",
+				"slug": "",
+				"email": ""
+			}
+			
+		],
+		"distributor": "The Province"
+	},
+	"titles": {
+		"main": "Mooseter of ceremonies for awards show that bearly scrapes surface of B.C.'s deserving soles",
+		"sub": "",
+		"alternative": "",
+		"concise": ""
+	},
+	"excerpt": "Super-hugger Dana Sebal takes great pride in the fact it was her idea to push my conservative comfort zone and dress up for the Movember Moustache Miler at Stanley Park. Sebal, part of the fabulous female braintrust � which includes Sophia Betegh � that helped to raise more than $40,000 for men�s mental and physical",
+	"origin_slug": "",
+	"taxonomies": {
+		"tags": [
+			{
+				"id": 0 ,
+				"name": "Abbotsford",
+				"slug": "abbotsford"
+			},
+			{
+				"id":  0,
+				"name": "Asia",
+				"slug": "asia"
+			},
+			{
+				"id":  0,
+				"name": "BC Ferries",
+				"slug": "bc-ferries"
+			},
+			{
+				"id":  0,
+				"name": "British Columbia Ferry Services Inc.",
+				"slug": "british-columbia-ferry-services-inc."
+			},
+			{
+				"id":  0,
+				"name": "Cable News Network",
+				"slug": "cable-news-network"
+			},
+			{
+				"id":  0,
+				"name": "Central Park",
+				"slug": "central-park"
+			},
+			{
+				"id":  0,
+				"name": "Chelsea (New York City)",
+				"slug": "chelsea-(new-york-city)"
+			},
+			{
+				"id":  0,
+				"name": "China",
+				"slug": "china"
+			},
+			{
+				"id":  0,
+				"name": "Chris Cudmore",
+				"slug": "chris-cudmore"
+			},
+			{
+				"id":  0,
+				"name": "Dana Sebal",
+				"slug": "dana-sebal"
+			},
+			{
+				"id":  0,
+				"name": "Debra Kato",
+				"slug": "debra-kato"
+			},
+			{
+				"id":  0,
+				"name": "East Asia",
+				"slug": "east-asia"
+			},
+			{
+				"id":  0,
+				"name": "Europe",
+				"slug": "europe"
+			},
+			{
+				"id":  0,
+				"name": "Fun on the Run Blog",
+				"slug": "fun-on-the-run-blog"
+			},
+			{
+				"id":  0,
+				"name": "Gord Kurenoff",
+				"slug": "gord-kurenoff"
+			},
+			{
+				"id":  0,
+				"name": "Henry Braun",
+				"slug": "henry-braun"
+			},
+			{
+				"id":  0,
+				"name": "Iran",
+				"slug": "iran"
+			},
+			{
+				"id":  0,
+				"name": "Japan",
+				"slug": "japan"
+			},
+			{
+				"id":  0,
+				"name": "Kathie Schellenberg",
+				"slug": "kathie-schellenberg"
+			},
+			{
+				"id":  0,
+				"name": "Langley Speedway",
+				"slug": "langley-speedway"
+			},
+			{
+				"id":  0,
+				"name": "Margaret Buttner",
+				"slug": "margaret-buttner"
+			},
+			{
+				"id":  0,
+				"name": "Middle East",
+				"slug": "middle-east"
+			},
+			{
+				"id":  0,
+				"name": "Russia",
+				"slug": "russia"
+			},
+			{
+				"id":  0,
+				"name": "Shoppers Drug Mart Corporation",
+				"slug": "shoppers-drug-mart-corporation"
+			},
+			{
+				"id":  0,
+				"name": "Simon Gibson",
+				"slug": "simon-gibson"
+			},
+			{
+				"id":  0,
+				"name": "Sophia Betegh",
+				"slug": "sophia-betegh"
+			},
+			{
+				"id":  0,
+				"name": "Spain",
+				"slug": "spain"
+			},
+			{
+				"id":  0,
+				"name": "Speedy Gonzalez",
+				"slug": "speedy-gonzalez"
+			},
+			{
+				"id":  0,
+				"name": "Sports Blog",
+				"slug": "sports-blog"
+			},
+			{
+				"id":  0,
+				"name": "Stanley Park (Vancouver)",
+				"slug": "stanley-park-(vancouver)"
+			},
+			{
+				"id":  0,
+				"name": "Steve Mattina",
+				"slug": "steve-mattina"
+			},
+			{
+				"id":  0,
+				"name": "Vancouver",
+				"slug": "vancouver"
+			},
+			{
+				"id":  0,
+				"name": "Wal-Mart Stores Inc.",
+				"slug": "wal-mart-stores-inc."
+			},
+			{
+				"id":  0,
+				"name": "Wendy Jordan-Olive",
+				"slug": "wendy-jordan-olive"
+			},
+			{
+				"id":  0,
+				"name": "Western Europe",
+				"slug": "western-europe"
+			}
+			
+			
+		],
+		"main_category": {
+			"id": 31,
+			"name": "Sports",
+			"slug": "sports",
+			"path": ""
+		},
+		"categories": [
+			{
+				"id": 31,
+				"name": "Sports",
+				"slug": "sports",
+				"path": "",
+				"main": true
+			}
+		]
+	},
+	"content_elements": [
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Super-hugger <strong>Dana Sebal</strong> takes great pride in the fact it was <em>her idea</em> to push my conservative comfort zone and dress up for the <strong>Movember Moustache Miler</strong> at Stanley Park."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<figure id=\"attachment_196611\" style=\"width:283px;\" class=\"wp-caption post-img size_this_image_test alignright\" itemprop=\"associatedMedia\" itemscope itemid=\"photo url\" itemtype=\"http://schema.org/ImageObject\"><img class=\"size-medium wp-image-196611\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/danamoose.jpg?w=283\" alt=\"Dana Sebal of Movember Moustache Miler fame wanted Gord Kurenoff to unleash the best at Stanley Park. The moose got loose and helped to raise $40,000 for men's mental and physical health initiatives.\" /><figcaption class=\"wp-caption-text\">\n<p>\n<span class=\"img-caption\">\n&lt;strong&gt;Dana Sebal of Movember Moustache Miler fame in Vancouver encouraged Gord Kurenoff to unleash his inner beast at Stanley Park. The moose got loose and helped a record crowd raise $40,000-plus for men&#8217;s mental and physical health initiatives.&lt;/strong&gt;</span>\n</p>\n</figcaption>\n\n</figure>"
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Sebal, part of the fabulous female braintrust � which includes <strong>Sophia Betegh</strong> � that helped to raise more than $40,000 for men�s mental and physical health initiatives with a 5K trek that attracted a record turnout of hair-lipped costumed runners, wanted me to �unleash the inner beast� and up my rather weak effort from a year earlier when your scribe showed up as the Wal-Mart Flash (last-minute costume, my bad!)."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "After ducking inside <strong>Cool As A Moose Whistler</strong> in late October to seek shelter from a morning downpour, I started trying on novelty items to kill time when the idea of running the <em>Moose-tache Miler</em> popped into my mostly wet, empty noggin�."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Thanks to <strong>Chelsea</strong> and <strong>Chris Cudmore</strong>, co-owners of the Cool As A Moose empire in Canada, that rare brainstorm became reality and the moose was let loose."
+		},
+
+		{
+			"id": 0,
+			"type": "text",
+			"content": "They also shipped a bear costume hoping it might come in handy down the road for charity runs. So I went all beast-mode with that colourful (but much tighter) outfit at the <strong>Abbotsford Santa Shuffle</strong>."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The energetic elves, pickled penguins, galloping grinches, shuffling sweaters, cocky candy canes, Santa helpers and rollicking reindeer at Ellwood Park all said the moose outfit and <em>Christ-moose</em> theme would have been a better fit (literally and figuratively) for the occasion than special deputy <strong>Fuzzie Care Bear</strong>. Should have known better than to gamble in MLA <strong>Simon Gibson</strong>&#8216;s backyard!"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Guess they didn�t get the <em>Beary Capital</em>�humour, the former Abby cub reporter turned bear connection, or my panda-ering to <strong>Mayor Henry Braun</strong> thing, drinking Pepsi koala or bearly moving shtick. Tough crowd (and darn fast, too!)."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Ellwood run course designer <strong>Wendy Jordan-Olive</strong>, wearing an elf outfit and one of many trying to figure out why the moose didn&#8217;t visit, suggested off the cuff that I should do an awards blog after I have some porridge."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "So, as Ms. Sebal now knows, careful what you wish for Wendy!"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Here is Part 1 of the Fun On The Run awards show, where some of the best honours include not being mentioned below!"
+		},
+		{
+			"id": 0,
+			"type": "tex<em>Drum roll and envelopes please �:</em>t",
+			"content": ""
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>�STORM TROOPER AWARD</strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<figure id=\"attachment_196613\" style=\"width:300px;\" class=\"wp-caption post-img size_this_image_test alignleft\" itemprop=\"associatedMedia\" itemscope itemid=\"photo url\" itemtype=\"http://schema.org/ImageObject\"><img class=\"size-medium wp-image-196613\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/kathie.jpg?w=300\" alt=\"Kathie Schellenberg of MEC Langley must have ticked off the weather gods because they made life difficult this season, but she still found a way to put on great events.\" /><figcaption class=\"wp-caption-text\">\n<p>\n<span class=\"img-caption\">\n&lt;strong&gt;Kathie Schellenberg of MEC Langley must have ticked off the weather gods because they made life difficult this season, but she still found a way to stage superb shows.&lt;/strong&gt;</span>\n</p>\n</figcaption>\n\n</figure>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>Kathie Schellenberg</strong> of MEC Langley, an awesome race coordinator who ends her fun emails with the great line �When is the last time you did something for the first time?� is the clear winner. And I�m sorry for using the word <em>clear</em>, Kathie."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Her superb 2015 running series, held in the hottest year on record, included more problematic �weather incidents� than those reported by BC Ferries, CNN and TransLink combined."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The worst of the bunch was her <strong>Campbell Valley Regional Park half-marathon, 10K and 5K</strong> that got hit by a severe windstorm, took out power, trees and trails the day before the event at old Langley Speedway."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "After that event was postponed I went to take a promo photo of her next run. On cue, wind and rain at the photo shoot made it look like she was standing in the eye of a hurricane."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Feeling snakebit, she invited me to MEC�s 100K Century Bike Ride in September during a lengthy dry spell � the first time I�ve pedalled 100K on a bike since a high school dare � and it pelted rain and had locals looking for Noah&#8217;s Ark hotline. I finished the race, third last, and my shirt shrunk so much it looked like my wedgie-ish Abbotsford bear costume!"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>YOU READ MY MIND AWARD</strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>Steve Mattina</strong>, the Running Room guru at UBC�s Wesbrook Village, asked if I wanted to run with 1,000 beautiful women in May�s <strong>Shoppers Drug Mart Run For Women</strong>."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<figure id=\"attachment_196615\" style=\"width:300px;\" class=\"wp-caption post-img size_this_image_test alignright\" itemprop=\"associatedMedia\" itemscope itemid=\"photo url\" itemtype=\"http://schema.org/ImageObject\"><img class=\"size-medium wp-image-196615\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/gordsgirls.jpg?w=300\" alt=\"'How would you like to run with 1,000 women?' Steve Mattina asked Gord last May. He decided after a lot of thought (wink, wink) to do so!\" /><figcaption class=\"wp-caption-text\">\n<p>\n<span class=\"img-caption\">\n&lt;strong&gt;&#8216;How would you like to run with 1,000 women?&#8217; Steve Mattina asked Gord Kurenoff last May. He decided to do it after a lot of thought (wink, wink)!&lt;/strong&gt;</span>\n</p>\n</figcaption>\n\n</figure>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "�Hell yeah!,� I said with my inner voice, while doing fist pumps, cartwheels, back flips and gangnam-style, Zumba-ish moves while calmly and maturely saying &#8220;that would be nice&#8221; to Steve."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Along with focusing on my drafting, it was one of the more memorable and scenic events of the year � the UBC trails were scenic, too � plus the race-day experience and attention to details were impressive."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "It was brought to our attention that one in every four women suffer depression and that women are three times more likely to suffer from mental health issues then men. They raised money and awareness for that important cause, plus we had cake and treats at the finish line."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "What was also brought to my attention is that 1,000 women can run extra fast with my heavy breathing hot on their heels!"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<strong>MOSTLY JOAQUIN IN LATIN FAMILY RUN AWARD</strong>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The first time I met the lovely <strong>Lluvia Meneses</strong> was during a <strong>Sun Run</strong> training clinic in Langley. Before letting me eat her dust on the undulating Derby Reach trails she explained how her all-female Latin Runners club was formed as an exercise/support group for new Latino immigrants."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<figure id=\"attachment_196618\" style=\"width:300px;\" class=\"wp-caption post-img size_this_image_test alignleft\" itemprop=\"associatedMedia\" itemscope itemid=\"photo url\" itemtype=\"http://schema.org/ImageObject\"><img class=\"size-medium wp-image-196618\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/latinruns.jpg?w=300\" alt=\"There was no shortage of excitement or speed when the Latin Runners hosted their first family run in Burnaby.\" /><figcaption class=\"wp-caption-text\">\n<p>\n<span class=\"img-caption\">\n&lt;strong&gt;There was no shortage of excitement or speedsters when the Latin Runners hosted their first Latin Family Run in Burnaby.&lt;/strong&gt;</span>\n</p>\n</figcaption>\n\n</figure>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "It has sinced welcomed women from Japan, Russia, China, Iran, Spain and Canada and the club has captured national and provincial awards and recognition."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "The Latin Runners held their first <strong>Latin Family Run</strong> on a hot weekend in June at Burnaby�s Central Park and it was an incredible success and sight to see."
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Their goal was to �shine together,� and, I think, to scream �1,2,3 Latin Runners � a correeeeer!� a few hundred times. They nailed both!"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "I was no <strong>Speedy Gonzalez</strong> (those gals can run) and was reminded that my �Spanish� name <strong>El Gordo</strong> means <em>Big Stuffed One</em>. My 3-1 run/walk interval plan on that 38C morning became a mostly-Joaquin (walking) experience after 3K. I hope they get that joke in Abbotsford!"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "Stay tuned for more <em>Fun On The Run</em> awards early next week, including honours for most inspirational club, best quotes, how to use a camera, run and do both at the same time like <strong>Debra Kato</strong>, cheesy pickup lines, corny costumes, <strong>Margaret Buttner</strong>&#8216;s latest tweet, and awesome excuses (other than mine)!"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<em>Gotta run �</em>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<a href=\"mailto:gordkurenoff@vancouversun.com\">gordkurenoff@vancouversun.com</a>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<a href=\"https://twitter.com/Ohgord\">Twitter.com/ohgord</a>"
+		},
+		{
+			"id": 0,
+			"type": "text",
+			"content": "<figure id=\"attachment_196620\" style=\"width:300px;\" class=\"wp-caption post-img size_this_image_test aligncenter\" itemprop=\"associatedMedia\" itemscope itemid=\"photo url\" itemtype=\"http://schema.org/ImageObject\"><img class=\"size-medium wp-image-196620\" src=\"http://wpcvansunblogs.canada.com/wp-content/uploads/2015/12/forever.jpg?w=300\" alt=\"The Forever Young 8K in Richmond will be in the running for Most Inspirational Club when Part 2 of this blogger's awards show continues next week.\" /><figcaption class=\"wp-caption-text\">\n<p>\n<span class=\"img-caption\">\n&lt;strong&gt;The Forever Young 8K in Richmond will be in the running for Most Inspirational Club of 2015 when Part 2 of this blogger&#8217;s awards show continues next week.&lt;/strong&gt;</span>\n</p>\n</figcaption>\n\n</figure>"
+		}
+	
+		
+
+		
+	],
+	"featured_media": {
+		"image": {
+			"id": 0,
+			"type": "image",
+			"mime_type": "image/jpeg",
+			"created_date": "2016-04-28T09:50:50.52Z",
+			"url": "http://theprovince.wpdstg1.canada.com/wp-content/uploads/sites/30/2015/12/last-game1166.jpeg",
+			"title": "sports",
+			"caption": "",
+			"description": "",
+			"credit": "",
+			"distributor": "",
+			"width": 1000,
+			"height": 750
+		}
+	},
+	"metadata": {
+		
+    }
+}

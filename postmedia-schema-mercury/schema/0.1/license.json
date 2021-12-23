@@ -1,0 +1,26 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"id": "https://raw.githubusercontent.com/Postmedia-Digital/postmedia-schema-content/develop/schema/0.1/license.json",
+	"title": "A content license.",
+	"description": "Holds attributes of a Postmedia content license.",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "Automatically generated ID",
+			"type": "string"
+		},
+		"name": {
+			"description": "Name/label for the license",
+			"type": "string"
+		},
+		"description": {
+			"description": "Description for the license",
+			"type": "string"
+		},
+		"status": {
+			"description": "License status (e.g. active/deleted)",
+			"type": "string",
+			"enum": [ "published", "deleted" ]
+	    },
+	}
+}
